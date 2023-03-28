@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[api/src/services/import-export.ts:39](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/import-export.ts#L39)
+[api/src/services/import-export.ts:39](https://github.com/directus/directus/blob/953c2f95d/api/src/services/import-export.ts#L39)
 
 ## Properties
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[api/src/services/import-export.ts:36](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/import-export.ts#L36)
+[api/src/services/import-export.ts:36](https://github.com/directus/directus/blob/953c2f95d/api/src/services/import-export.ts#L36)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[api/src/services/import-export.ts:35](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/import-export.ts#L35)
+[api/src/services/import-export.ts:35](https://github.com/directus/directus/blob/953c2f95d/api/src/services/import-export.ts#L35)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[api/src/services/import-export.ts:37](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/import-export.ts#L37)
+[api/src/services/import-export.ts:37](https://github.com/directus/directus/blob/953c2f95d/api/src/services/import-export.ts#L37)
 
 ## Methods
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[api/src/services/import-export.ts:45](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/import-export.ts#L45)
+[api/src/services/import-export.ts:45](https://github.com/directus/directus/blob/953c2f95d/api/src/services/import-export.ts#L45)
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 #### Defined in
 
-[api/src/services/import-export.ts:117](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/import-export.ts#L117)
+[api/src/services/import-export.ts:117](https://github.com/directus/directus/blob/953c2f95d/api/src/services/import-export.ts#L117)
 
 ___
 
@@ -128,4 +128,4 @@ ___
 
 #### Defined in
 
-[api/src/services/import-export.ts:71](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/import-export.ts#L71)
+[api/src/services/import-export.ts:71](https://github.com/directus/directus/blob/953c2f95d/api/src/services/import-export.ts#L71)

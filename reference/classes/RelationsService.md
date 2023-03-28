@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[api/src/services/relations.ts:29](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L29)
+[api/src/services/relations.ts:29](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L29)
 
 ## Properties
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[api/src/services/relations.ts:23](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L23)
+[api/src/services/relations.ts:23](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L23)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[api/src/services/relations.ts:27](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L27)
+[api/src/services/relations.ts:27](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L27)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[api/src/services/relations.ts:20](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L20)
+[api/src/services/relations.ts:20](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L20)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[api/src/services/relations.ts:21](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L21)
+[api/src/services/relations.ts:21](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L21)
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 #### Defined in
 
-[api/src/services/relations.ts:25](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L25)
+[api/src/services/relations.ts:25](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L25)
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 #### Defined in
 
-[api/src/services/relations.ts:24](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L24)
+[api/src/services/relations.ts:24](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L24)
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 #### Defined in
 
-[api/src/services/relations.ts:22](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L22)
+[api/src/services/relations.ts:22](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L22)
 
 ___
 
@@ -136,7 +136,7 @@ ___
 
 #### Defined in
 
-[api/src/services/relations.ts:26](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L26)
+[api/src/services/relations.ts:26](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L26)
 
 ## Accessors
 
@@ -152,7 +152,7 @@ Whether or not the current user has read access to relations
 
 #### Defined in
 
-[api/src/services/relations.ts:441](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L441)
+[api/src/services/relations.ts:441](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L441)
 
 ## Methods
 
@@ -184,7 +184,7 @@ This is a bit of a hack, and might be better of abstracted elsewhere
 
 #### Defined in
 
-[api/src/services/relations.ts:559](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L559)
+[api/src/services/relations.ts:559](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L559)
 
 ___
 
@@ -207,7 +207,7 @@ Create a new relationship / foreign key constraint
 
 #### Defined in
 
-[api/src/services/relations.ts:128](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L128)
+[api/src/services/relations.ts:128](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L128)
 
 ___
 
@@ -231,7 +231,7 @@ Delete an existing relationship
 
 #### Defined in
 
-[api/src/services/relations.ts:357](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L357)
+[api/src/services/relations.ts:357](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L357)
 
 ___
 
@@ -254,7 +254,7 @@ permissions to
 
 #### Defined in
 
-[api/src/services/relations.ts:494](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L494)
+[api/src/services/relations.ts:494](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L494)
 
 ___
 
@@ -275,7 +275,7 @@ ___
 
 #### Defined in
 
-[api/src/services/relations.ts:47](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L47)
+[api/src/services/relations.ts:47](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L47)
 
 ___
 
@@ -296,7 +296,7 @@ ___
 
 #### Defined in
 
-[api/src/services/relations.ts:77](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L77)
+[api/src/services/relations.ts:77](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L77)
 
 ___
 
@@ -320,7 +320,7 @@ Relation objects
 
 #### Defined in
 
-[api/src/services/relations.ts:451](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L451)
+[api/src/services/relations.ts:451](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L451)
 
 ___
 
@@ -347,4 +347,4 @@ Note: You can update anything under meta, but only the `on_delete` trigger under
 
 #### Defined in
 
-[api/src/services/relations.ts:242](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/relations.ts#L242)
+[api/src/services/relations.ts:242](https://github.com/directus/directus/blob/953c2f95d/api/src/services/relations.ts#L242)

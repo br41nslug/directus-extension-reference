@@ -61,7 +61,7 @@
 
 #### Defined in
 
-[api/src/services/folders.ts:5](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/folders.ts#L5)
+[api/src/services/folders.ts:5](https://github.com/directus/directus/blob/953c2f95d/api/src/services/folders.ts#L5)
 
 ## Properties
 
@@ -75,7 +75,7 @@
 
 #### Defined in
 
-[api/src/services/items.ts:36](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L36)
+[api/src/services/items.ts:36](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L36)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:39](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L39)
+[api/src/services/items.ts:39](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L39)
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:34](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L34)
+[api/src/services/items.ts:34](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L34)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:37](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L37)
+[api/src/services/items.ts:37](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L37)
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:35](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L35)
+[api/src/services/items.ts:35](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L35)
 
 ___
 
@@ -145,7 +145,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:38](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L38)
+[api/src/services/items.ts:38](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L38)
 
 ## Methods
 
@@ -172,7 +172,7 @@ Create multiple new items at once. Inserts all provided records sequentially wra
 
 #### Defined in
 
-[api/src/services/items.ts:276](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L276)
+[api/src/services/items.ts:278](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L278)
 
 ___
 
@@ -199,7 +199,7 @@ Create a single new item.
 
 #### Defined in
 
-[api/src/services/items.ts:72](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L72)
+[api/src/services/items.ts:72](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L72)
 
 ___
 
@@ -226,7 +226,7 @@ Delete multiple items by query
 
 #### Defined in
 
-[api/src/services/items.ts:766](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L766)
+[api/src/services/items.ts:768](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L768)
 
 ___
 
@@ -253,7 +253,7 @@ Delete multiple items by primary key
 
 #### Defined in
 
-[api/src/services/items.ts:789](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L789)
+[api/src/services/items.ts:791](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L791)
 
 ___
 
@@ -280,7 +280,7 @@ Delete a single item by primary key
 
 #### Defined in
 
-[api/src/services/items.ts:778](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L778)
+[api/src/services/items.ts:780](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L780)
 
 ___
 
@@ -304,7 +304,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:52](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L52)
+[api/src/services/items.ts:52](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L52)
 
 ___
 
@@ -331,7 +331,7 @@ Get items by query
 
 #### Defined in
 
-[api/src/services/items.ts:319](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L319)
+[api/src/services/items.ts:321](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L321)
 
 ___
 
@@ -359,7 +359,7 @@ Get multiple items by primary keys
 
 #### Defined in
 
-[api/src/services/items.ts:425](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L425)
+[api/src/services/items.ts:427](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L427)
 
 ___
 
@@ -387,7 +387,7 @@ Get single item by primary key
 
 #### Defined in
 
-[api/src/services/items.ts:406](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L406)
+[api/src/services/items.ts:408](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L408)
 
 ___
 
@@ -414,7 +414,7 @@ Read/treat collection as singleton
 
 #### Defined in
 
-[api/src/services/items.ts:880](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L880)
+[api/src/services/items.ts:882](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L882)
 
 ___
 
@@ -441,7 +441,7 @@ Update multiple items in a single transaction
 
 #### Defined in
 
-[api/src/services/items.ts:468](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L468)
+[api/src/services/items.ts:470](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L470)
 
 ___
 
@@ -469,7 +469,7 @@ Update multiple items by query
 
 #### Defined in
 
-[api/src/services/items.ts:445](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L445)
+[api/src/services/items.ts:447](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L447)
 
 ___
 
@@ -497,7 +497,7 @@ Update many items by primary key, setting all items to the same change
 
 #### Defined in
 
-[api/src/services/items.ts:503](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L503)
+[api/src/services/items.ts:505](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L505)
 
 ___
 
@@ -525,7 +525,7 @@ Update a single item by primary key
 
 #### Defined in
 
-[api/src/services/items.ts:457](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L457)
+[api/src/services/items.ts:459](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L459)
 
 ___
 
@@ -552,7 +552,7 @@ Upsert many items
 
 #### Defined in
 
-[api/src/services/items.ts:738](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L738)
+[api/src/services/items.ts:740](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L740)
 
 ___
 
@@ -579,7 +579,7 @@ Upsert a single item
 
 #### Defined in
 
-[api/src/services/items.ts:712](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L712)
+[api/src/services/items.ts:714](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L714)
 
 ___
 
@@ -606,4 +606,4 @@ Upsert/treat collection as singleton
 
 #### Defined in
 
-[api/src/services/items.ts:916](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L916)
+[api/src/services/items.ts:918](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L918)

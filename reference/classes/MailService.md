@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[api/src/services/mail/index.ts:33](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/mail/index.ts#L33)
+[api/src/services/mail/index.ts:33](https://github.com/directus/directus/blob/953c2f95d/api/src/services/mail/index.ts#L33)
 
 ## Properties
 
@@ -45,7 +45,7 @@
 
 #### Defined in
 
-[api/src/services/mail/index.ts:29](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/mail/index.ts#L29)
+[api/src/services/mail/index.ts:29](https://github.com/directus/directus/blob/953c2f95d/api/src/services/mail/index.ts#L29)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[api/src/services/mail/index.ts:30](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/mail/index.ts#L30)
+[api/src/services/mail/index.ts:30](https://github.com/directus/directus/blob/953c2f95d/api/src/services/mail/index.ts#L30)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[api/src/services/mail/index.ts:31](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/mail/index.ts#L31)
+[api/src/services/mail/index.ts:31](https://github.com/directus/directus/blob/953c2f95d/api/src/services/mail/index.ts#L31)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[api/src/services/mail/index.ts:28](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/mail/index.ts#L28)
+[api/src/services/mail/index.ts:28](https://github.com/directus/directus/blob/953c2f95d/api/src/services/mail/index.ts#L28)
 
 ## Methods
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[api/src/services/mail/index.ts:96](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/mail/index.ts#L96)
+[api/src/services/mail/index.ts:96](https://github.com/directus/directus/blob/953c2f95d/api/src/services/mail/index.ts#L96)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[api/src/services/mail/index.ts:80](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/mail/index.ts#L80)
+[api/src/services/mail/index.ts:80](https://github.com/directus/directus/blob/953c2f95d/api/src/services/mail/index.ts#L80)
 
 ___
 
@@ -136,4 +136,4 @@ ___
 
 #### Defined in
 
-[api/src/services/mail/index.ts:49](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/mail/index.ts#L49)
+[api/src/services/mail/index.ts:49](https://github.com/directus/directus/blob/953c2f95d/api/src/services/mail/index.ts#L49)

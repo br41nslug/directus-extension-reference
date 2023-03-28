@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[api/src/services/authorization.ts:37](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authorization.ts#L37)
+[api/src/services/authorization.ts:37](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authorization.ts#L37)
 
 ## Properties
 
@@ -45,7 +45,7 @@
 
 #### Defined in
 
-[api/src/services/authorization.ts:33](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authorization.ts#L33)
+[api/src/services/authorization.ts:33](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authorization.ts#L33)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[api/src/services/authorization.ts:32](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authorization.ts#L32)
+[api/src/services/authorization.ts:32](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authorization.ts#L32)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[api/src/services/authorization.ts:34](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authorization.ts#L34)
+[api/src/services/authorization.ts:34](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authorization.ts#L34)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[api/src/services/authorization.ts:35](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authorization.ts#L35)
+[api/src/services/authorization.ts:35](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authorization.ts#L35)
 
 ## Methods
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-[api/src/services/authorization.ts:583](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authorization.ts#L583)
+[api/src/services/authorization.ts:583](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authorization.ts#L583)
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-[api/src/services/authorization.ts:47](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authorization.ts#L47)
+[api/src/services/authorization.ts:47](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authorization.ts#L47)
 
 ___
 
@@ -142,4 +142,4 @@ Checks if the provided payload matches the configured permissions, and adds the 
 
 #### Defined in
 
-[api/src/services/authorization.ts:472](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authorization.ts#L472)
+[api/src/services/authorization.ts:472](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authorization.ts#L472)

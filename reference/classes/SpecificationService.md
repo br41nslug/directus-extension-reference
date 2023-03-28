@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[api/src/services/specifications.ts:33](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/specifications.ts#L33)
+[api/src/services/specifications.ts:39](https://github.com/directus/directus/blob/953c2f95d/api/src/services/specifications.ts#L39)
 
 ## Properties
 
@@ -43,7 +43,7 @@
 
 #### Defined in
 
-[api/src/services/specifications.ts:22](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/specifications.ts#L22)
+[api/src/services/specifications.ts:28](https://github.com/directus/directus/blob/953c2f95d/api/src/services/specifications.ts#L28)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[api/src/services/specifications.ts:27](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/specifications.ts#L27)
+[api/src/services/specifications.ts:33](https://github.com/directus/directus/blob/953c2f95d/api/src/services/specifications.ts#L33)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[api/src/services/specifications.ts:26](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/specifications.ts#L26)
+[api/src/services/specifications.ts:32](https://github.com/directus/directus/blob/953c2f95d/api/src/services/specifications.ts#L32)
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 #### Defined in
 
-[api/src/services/specifications.ts:31](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/specifications.ts#L31)
+[api/src/services/specifications.ts:37](https://github.com/directus/directus/blob/953c2f95d/api/src/services/specifications.ts#L37)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-[api/src/services/specifications.ts:23](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/specifications.ts#L23)
+[api/src/services/specifications.ts:29](https://github.com/directus/directus/blob/953c2f95d/api/src/services/specifications.ts#L29)
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-[api/src/services/specifications.ts:30](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/specifications.ts#L30)
+[api/src/services/specifications.ts:36](https://github.com/directus/directus/blob/953c2f95d/api/src/services/specifications.ts#L36)
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 #### Defined in
 
-[api/src/services/specifications.ts:28](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/specifications.ts#L28)
+[api/src/services/specifications.ts:34](https://github.com/directus/directus/blob/953c2f95d/api/src/services/specifications.ts#L34)
 
 ___
 
@@ -113,4 +113,4 @@ ___
 
 #### Defined in
 
-[api/src/services/specifications.ts:24](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/specifications.ts#L24)
+[api/src/services/specifications.ts:30](https://github.com/directus/directus/blob/953c2f95d/api/src/services/specifications.ts#L30)

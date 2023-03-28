@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[api/src/services/assets.ts:35](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/assets.ts#L35)
+[api/src/services/assets.ts:35](https://github.com/directus/directus/blob/953c2f95d/api/src/services/assets.ts#L35)
 
 ## Properties
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[api/src/services/assets.ts:32](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/assets.ts#L32)
+[api/src/services/assets.ts:32](https://github.com/directus/directus/blob/953c2f95d/api/src/services/assets.ts#L32)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[api/src/services/assets.ts:33](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/assets.ts#L33)
+[api/src/services/assets.ts:33](https://github.com/directus/directus/blob/953c2f95d/api/src/services/assets.ts#L33)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[api/src/services/assets.ts:31](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/assets.ts#L31)
+[api/src/services/assets.ts:31](https://github.com/directus/directus/blob/953c2f95d/api/src/services/assets.ts#L31)
 
 ## Methods
 
@@ -84,4 +84,4 @@ ___
 
 #### Defined in
 
-[api/src/services/assets.ts:41](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/assets.ts#L41)
+[api/src/services/assets.ts:41](https://github.com/directus/directus/blob/953c2f95d/api/src/services/assets.ts#L41)

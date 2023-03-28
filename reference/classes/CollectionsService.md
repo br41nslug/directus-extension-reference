@@ -45,7 +45,7 @@
 
 #### Defined in
 
-[api/src/services/collections.ts:37](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L37)
+[api/src/services/collections.ts:37](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L37)
 
 ## Properties
 
@@ -55,7 +55,7 @@
 
 #### Defined in
 
-[api/src/services/collections.ts:31](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L31)
+[api/src/services/collections.ts:31](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L31)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[api/src/services/collections.ts:34](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L34)
+[api/src/services/collections.ts:34](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L34)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-[api/src/services/collections.ts:30](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L30)
+[api/src/services/collections.ts:30](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L30)
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-[api/src/services/collections.ts:29](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L29)
+[api/src/services/collections.ts:29](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L29)
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 #### Defined in
 
-[api/src/services/collections.ts:33](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L33)
+[api/src/services/collections.ts:33](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L33)
 
 ___
 
@@ -113,7 +113,7 @@ ___
 
 #### Defined in
 
-[api/src/services/collections.ts:32](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L32)
+[api/src/services/collections.ts:32](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L32)
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 #### Defined in
 
-[api/src/services/collections.ts:35](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L35)
+[api/src/services/collections.ts:35](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L35)
 
 ## Methods
 
@@ -146,7 +146,7 @@ Create multiple new collections
 
 #### Defined in
 
-[api/src/services/collections.ts:189](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L189)
+[api/src/services/collections.ts:189](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L189)
 
 ___
 
@@ -169,7 +169,7 @@ Create a single new collection
 
 #### Defined in
 
-[api/src/services/collections.ts:52](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L52)
+[api/src/services/collections.ts:52](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L52)
 
 ___
 
@@ -192,7 +192,7 @@ Delete multiple collections by key
 
 #### Defined in
 
-[api/src/services/collections.ts:656](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L656)
+[api/src/services/collections.ts:656](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L656)
 
 ___
 
@@ -216,7 +216,7 @@ delete any fields, presets, activity, revisions, and permissions relating to thi
 
 #### Defined in
 
-[api/src/services/collections.ts:528](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L528)
+[api/src/services/collections.ts:528](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L528)
 
 ___
 
@@ -232,7 +232,7 @@ Read all collections. Currently doesn't support any query.
 
 #### Defined in
 
-[api/src/services/collections.ts:238](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L238)
+[api/src/services/collections.ts:238](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L238)
 
 ___
 
@@ -254,7 +254,7 @@ Read many collections by name
 
 #### Defined in
 
-[api/src/services/collections.ts:330](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L330)
+[api/src/services/collections.ts:330](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L330)
 
 ___
 
@@ -276,7 +276,7 @@ Get a single collection by name
 
 #### Defined in
 
-[api/src/services/collections.ts:319](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L319)
+[api/src/services/collections.ts:319](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L319)
 
 ___
 
@@ -299,7 +299,7 @@ Update multiple collections in a single transaction
 
 #### Defined in
 
-[api/src/services/collections.ts:421](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L421)
+[api/src/services/collections.ts:421](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L421)
 
 ___
 
@@ -323,7 +323,7 @@ Update multiple collections by name
 
 #### Defined in
 
-[api/src/services/collections.ts:479](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L479)
+[api/src/services/collections.ts:479](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L479)
 
 ___
 
@@ -347,4 +347,4 @@ Update a single collection by name
 
 #### Defined in
 
-[api/src/services/collections.ts:354](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L354)
+[api/src/services/collections.ts:354](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L354)

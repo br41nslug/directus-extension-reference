@@ -36,7 +36,7 @@
 
 #### Defined in
 
-[api/src/services/authentication.ts:33](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authentication.ts#L33)
+[api/src/services/authentication.ts:33](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authentication.ts#L33)
 
 ## Properties
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[api/src/services/authentication.ts:29](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authentication.ts#L29)
+[api/src/services/authentication.ts:29](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authentication.ts#L29)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[api/src/services/authentication.ts:30](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authentication.ts#L30)
+[api/src/services/authentication.ts:30](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authentication.ts#L30)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[api/src/services/authentication.ts:28](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authentication.ts#L28)
+[api/src/services/authentication.ts:28](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authentication.ts#L28)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[api/src/services/authentication.ts:31](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authentication.ts#L31)
+[api/src/services/authentication.ts:31](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authentication.ts#L31)
 
 ## Methods
 
@@ -103,7 +103,7 @@ to handle password existence checks elsewhere
 
 #### Defined in
 
-[api/src/services/authentication.ts:46](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authentication.ts#L46)
+[api/src/services/authentication.ts:46](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authentication.ts#L46)
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 #### Defined in
 
-[api/src/services/authentication.ts:388](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authentication.ts#L388)
+[api/src/services/authentication.ts:388](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authentication.ts#L388)
 
 ___
 
@@ -143,7 +143,7 @@ ___
 
 #### Defined in
 
-[api/src/services/authentication.ts:255](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authentication.ts#L255)
+[api/src/services/authentication.ts:255](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authentication.ts#L255)
 
 ___
 
@@ -164,4 +164,4 @@ ___
 
 #### Defined in
 
-[api/src/services/authentication.ts:417](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/authentication.ts#L417)
+[api/src/services/authentication.ts:417](https://github.com/directus/directus/blob/953c2f95d/api/src/services/authentication.ts#L417)

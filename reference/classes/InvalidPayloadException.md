@@ -16,6 +16,7 @@
 
 ### Properties
 
+- [cause](InvalidPayloadException.md#cause)
 - [code](InvalidPayloadException.md#code)
 - [extensions](InvalidPayloadException.md#extensions)
 - [message](InvalidPayloadException.md#message)
@@ -48,9 +49,23 @@ BaseException.constructor
 
 #### Defined in
 
-[api/src/exceptions/invalid-payload.ts:4](https://github.com/directus/directus/blob/9368dbd0c/api/src/exceptions/invalid-payload.ts#L4)
+[api/src/exceptions/invalid-payload.ts:4](https://github.com/directus/directus/blob/953c2f95d/api/src/exceptions/invalid-payload.ts#L4)
 
 ## Properties
+
+### cause
+
+• `Optional` **cause**: `unknown`
+
+#### Inherited from
+
+BaseException.cause
+
+#### Defined in
+
+node_modules/.pnpm/typescript@4.9.5/node_modules/typescript/lib/lib.es2022.error.d.ts:26
+
+___
 
 ### code
 
@@ -167,7 +182,7 @@ BaseException.prepareStackTrace
 
 #### Defined in
 
-node_modules/.pnpm/@types+node@18.13.0/node_modules/@types/node/globals.d.ts:11
+node_modules/.pnpm/@types+node@18.15.3/node_modules/@types/node/globals.d.ts:11
 
 ___
 
@@ -181,7 +196,7 @@ BaseException.stackTraceLimit
 
 #### Defined in
 
-node_modules/.pnpm/@types+node@18.13.0/node_modules/@types/node/globals.d.ts:13
+node_modules/.pnpm/@types+node@18.15.3/node_modules/@types/node/globals.d.ts:13
 
 ## Methods
 
@@ -208,4 +223,4 @@ BaseException.captureStackTrace
 
 #### Defined in
 
-node_modules/.pnpm/@types+node@18.13.0/node_modules/@types/node/globals.d.ts:4
+node_modules/.pnpm/@types+node@18.15.3/node_modules/@types/node/globals.d.ts:4

@@ -69,7 +69,7 @@
 
 #### Defined in
 
-[api/src/services/users.ts:26](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L26)
+[api/src/services/users.ts:20](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L20)
 
 ## Properties
 
@@ -77,13 +77,13 @@
 
 • **accountability**: ``null`` \| `Accountability`
 
-#### Overrides
+#### Inherited from
 
 [ItemsService](ItemsService.md).[accountability](ItemsService.md#accountability)
 
 #### Defined in
 
-[api/src/services/users.ts:23](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L23)
+[api/src/services/items.ts:36](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L36)
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:39](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L39)
+[api/src/services/items.ts:39](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L39)
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:34](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L34)
+[api/src/services/items.ts:34](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L34)
 
 ___
 
@@ -125,7 +125,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:37](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L37)
+[api/src/services/items.ts:37](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L37)
 
 ___
 
@@ -133,13 +133,13 @@ ___
 
 • **knex**: `Knex`<`any`, `any`[]\>
 
-#### Overrides
+#### Inherited from
 
 [ItemsService](ItemsService.md).[knex](ItemsService.md#knex)
 
 #### Defined in
 
-[api/src/services/users.ts:22](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L22)
+[api/src/services/items.ts:35](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L35)
 
 ___
 
@@ -147,13 +147,13 @@ ___
 
 • **schema**: `SchemaOverview`
 
-#### Overrides
+#### Inherited from
 
 [ItemsService](ItemsService.md).[schema](ItemsService.md#schema)
 
 #### Defined in
 
-[api/src/services/users.ts:24](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L24)
+[api/src/services/items.ts:38](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L38)
 
 ## Methods
 
@@ -174,7 +174,7 @@ ___
 
 #### Defined in
 
-[api/src/services/users.ts:355](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L355)
+[api/src/services/users.ts:349](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L349)
 
 ___
 
@@ -197,7 +197,7 @@ directus_settings.auth_password_policy
 
 #### Defined in
 
-[api/src/services/users.ts:75](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L75)
+[api/src/services/users.ts:69](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L69)
 
 ___
 
@@ -219,7 +219,7 @@ Make sure there's at least one active admin user when updating user status
 
 #### Defined in
 
-[api/src/services/users.ts:126](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L126)
+[api/src/services/users.ts:120](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L120)
 
 ___
 
@@ -239,7 +239,7 @@ ___
 
 #### Defined in
 
-[api/src/services/users.ts:106](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L106)
+[api/src/services/users.ts:100](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L100)
 
 ___
 
@@ -263,7 +263,7 @@ the email is unique regardless of casing
 
 #### Defined in
 
-[api/src/services/users.ts:38](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L38)
+[api/src/services/users.ts:32](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L32)
 
 ___
 
@@ -290,7 +290,7 @@ Create multiple new users
 
 #### Defined in
 
-[api/src/services/users.ts:154](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L154)
+[api/src/services/users.ts:148](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L148)
 
 ___
 
@@ -317,7 +317,7 @@ Create a new user
 
 #### Defined in
 
-[api/src/services/users.ts:146](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L146)
+[api/src/services/users.ts:140](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L140)
 
 ___
 
@@ -344,7 +344,7 @@ Delete multiple items by query
 
 #### Defined in
 
-[api/src/services/users.ts:295](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L295)
+[api/src/services/users.ts:289](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L289)
 
 ___
 
@@ -371,7 +371,7 @@ Delete multiple users by primary key
 
 #### Defined in
 
-[api/src/services/users.ts:282](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L282)
+[api/src/services/users.ts:276](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L276)
 
 ___
 
@@ -398,7 +398,7 @@ Delete a single user by primary key
 
 #### Defined in
 
-[api/src/services/users.ts:274](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L274)
+[api/src/services/users.ts:268](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L268)
 
 ___
 
@@ -422,7 +422,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:52](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L52)
+[api/src/services/items.ts:52](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L52)
 
 ___
 
@@ -445,7 +445,7 @@ ___
 
 #### Defined in
 
-[api/src/services/users.ts:314](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L314)
+[api/src/services/users.ts:308](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L308)
 
 ___
 
@@ -472,7 +472,7 @@ Get items by query
 
 #### Defined in
 
-[api/src/services/items.ts:319](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L319)
+[api/src/services/items.ts:321](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L321)
 
 ___
 
@@ -500,7 +500,7 @@ Get multiple items by primary keys
 
 #### Defined in
 
-[api/src/services/items.ts:425](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L425)
+[api/src/services/items.ts:427](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L427)
 
 ___
 
@@ -528,7 +528,7 @@ Get single item by primary key
 
 #### Defined in
 
-[api/src/services/items.ts:406](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L406)
+[api/src/services/items.ts:408](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L408)
 
 ___
 
@@ -555,7 +555,7 @@ Read/treat collection as singleton
 
 #### Defined in
 
-[api/src/services/items.ts:880](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L880)
+[api/src/services/items.ts:882](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L882)
 
 ___
 
@@ -577,7 +577,7 @@ ___
 
 #### Defined in
 
-[api/src/services/users.ts:378](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L378)
+[api/src/services/users.ts:372](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L372)
 
 ___
 
@@ -598,7 +598,7 @@ ___
 
 #### Defined in
 
-[api/src/services/users.ts:425](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L425)
+[api/src/services/users.ts:419](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L419)
 
 ___
 
@@ -625,7 +625,7 @@ Update multiple items in a single transaction
 
 #### Defined in
 
-[api/src/services/users.ts:189](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L189)
+[api/src/services/users.ts:183](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L183)
 
 ___
 
@@ -653,7 +653,7 @@ Update many users by query
 
 #### Defined in
 
-[api/src/services/users.ts:176](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L176)
+[api/src/services/users.ts:170](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L170)
 
 ___
 
@@ -681,7 +681,7 @@ Update many users by primary key
 
 #### Defined in
 
-[api/src/services/users.ts:213](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L213)
+[api/src/services/users.ts:207](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L207)
 
 ___
 
@@ -709,7 +709,7 @@ Update a single user by primary key
 
 #### Defined in
 
-[api/src/services/users.ts:184](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/users.ts#L184)
+[api/src/services/users.ts:178](https://github.com/directus/directus/blob/953c2f95d/api/src/services/users.ts#L178)
 
 ___
 
@@ -736,7 +736,7 @@ Upsert many items
 
 #### Defined in
 
-[api/src/services/items.ts:738](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L738)
+[api/src/services/items.ts:740](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L740)
 
 ___
 
@@ -763,7 +763,7 @@ Upsert a single item
 
 #### Defined in
 
-[api/src/services/items.ts:712](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L712)
+[api/src/services/items.ts:714](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L714)
 
 ___
 
@@ -790,4 +790,4 @@ Upsert/treat collection as singleton
 
 #### Defined in
 
-[api/src/services/items.ts:916](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L916)
+[api/src/services/items.ts:918](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L918)

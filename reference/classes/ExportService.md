@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[api/src/services/import-export.ts:182](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/import-export.ts#L182)
+[api/src/services/import-export.ts:182](https://github.com/directus/directus/blob/953c2f95d/api/src/services/import-export.ts#L182)
 
 ## Properties
 
@@ -43,7 +43,7 @@
 
 #### Defined in
 
-[api/src/services/import-export.ts:179](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/import-export.ts#L179)
+[api/src/services/import-export.ts:179](https://github.com/directus/directus/blob/953c2f95d/api/src/services/import-export.ts#L179)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[api/src/services/import-export.ts:178](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/import-export.ts#L178)
+[api/src/services/import-export.ts:178](https://github.com/directus/directus/blob/953c2f95d/api/src/services/import-export.ts#L178)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[api/src/services/import-export.ts:180](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/import-export.ts#L180)
+[api/src/services/import-export.ts:180](https://github.com/directus/directus/blob/953c2f95d/api/src/services/import-export.ts#L180)
 
 ## Methods
 
@@ -91,7 +91,7 @@ FilesService upload method.
 
 #### Defined in
 
-[api/src/services/import-export.ts:193](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/import-export.ts#L193)
+[api/src/services/import-export.ts:193](https://github.com/directus/directus/blob/953c2f95d/api/src/services/import-export.ts#L193)
 
 ___
 
@@ -117,4 +117,4 @@ Transform a given input object / array to the given type
 
 #### Defined in
 
-[api/src/services/import-export.ts:321](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/import-export.ts#L321)
+[api/src/services/import-export.ts:321](https://github.com/directus/directus/blob/953c2f95d/api/src/services/import-export.ts#L321)

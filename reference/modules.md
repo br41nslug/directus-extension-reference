@@ -80,7 +80,7 @@
 
 #### Defined in
 
-[api/src/services/mail/index.ts:20](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/mail/index.ts#L20)
+[api/src/services/mail/index.ts:20](https://github.com/directus/directus/blob/953c2f95d/api/src/services/mail/index.ts#L20)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:27](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L27)
+[api/src/services/items.ts:27](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L27)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[api/src/services/collections.ts:21](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/collections.ts#L21)
+[api/src/services/collections.ts:21](https://github.com/directus/directus/blob/953c2f95d/api/src/services/collections.ts#L21)
 
 ## Functions
 
@@ -131,4 +131,4 @@ ___
 
 #### Defined in
 
-[api/src/app.ts:64](https://github.com/directus/directus/blob/9368dbd0c/api/src/app.ts#L64)
+[api/src/app.ts:64](https://github.com/directus/directus/blob/953c2f95d/api/src/app.ts#L64)

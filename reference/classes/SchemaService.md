@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[api/src/services/schema.ts:17](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/schema.ts#L17)
+[api/src/services/schema.ts:17](https://github.com/directus/directus/blob/953c2f95d/api/src/services/schema.ts#L17)
 
 ## Properties
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[api/src/services/schema.ts:15](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/schema.ts#L15)
+[api/src/services/schema.ts:15](https://github.com/directus/directus/blob/953c2f95d/api/src/services/schema.ts#L15)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[api/src/services/schema.ts:14](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/schema.ts#L14)
+[api/src/services/schema.ts:14](https://github.com/directus/directus/blob/953c2f95d/api/src/services/schema.ts#L14)
 
 ## Methods
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[api/src/services/schema.ts:30](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/schema.ts#L30)
+[api/src/services/schema.ts:30](https://github.com/directus/directus/blob/953c2f95d/api/src/services/schema.ts#L30)
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-[api/src/services/schema.ts:41](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/schema.ts#L41)
+[api/src/services/schema.ts:41](https://github.com/directus/directus/blob/953c2f95d/api/src/services/schema.ts#L41)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[api/src/services/schema.ts:59](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/schema.ts#L59)
+[api/src/services/schema.ts:59](https://github.com/directus/directus/blob/953c2f95d/api/src/services/schema.ts#L59)
 
 ___
 
@@ -131,4 +131,4 @@ ___
 
 #### Defined in
 
-[api/src/services/schema.ts:22](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/schema.ts#L22)
+[api/src/services/schema.ts:22](https://github.com/directus/directus/blob/953c2f95d/api/src/services/schema.ts#L22)

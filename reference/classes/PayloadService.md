@@ -47,7 +47,7 @@ handled correctly.
 
 #### Defined in
 
-[api/src/services/payload.ts:41](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L41)
+[api/src/services/payload.ts:48](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L48)
 
 ## Properties
 
@@ -57,7 +57,7 @@ handled correctly.
 
 #### Defined in
 
-[api/src/services/payload.ts:35](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L35)
+[api/src/services/payload.ts:42](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L42)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-[api/src/services/payload.ts:38](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L38)
+[api/src/services/payload.ts:45](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L45)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[api/src/services/payload.ts:37](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L37)
+[api/src/services/payload.ts:44](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L44)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[api/src/services/payload.ts:36](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L36)
+[api/src/services/payload.ts:43](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L43)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[api/src/services/payload.ts:39](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L39)
+[api/src/services/payload.ts:46](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L46)
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-[api/src/services/payload.ts:51](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L51)
+[api/src/services/payload.ts:58](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L58)
 
 ## Methods
 
@@ -138,7 +138,7 @@ between delta and data
 
 #### Defined in
 
-[api/src/services/payload.ts:789](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L789)
+[api/src/services/payload.ts:796](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L796)
 
 ___
 
@@ -161,7 +161,7 @@ Recursively save/update all nested related Any-to-One items
 
 #### Defined in
 
-[api/src/services/payload.ts:369](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L369)
+[api/src/services/payload.ts:376](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L376)
 
 ___
 
@@ -181,7 +181,7 @@ ___
 
 #### Defined in
 
-[api/src/services/payload.ts:199](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L199)
+[api/src/services/payload.ts:206](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L206)
 
 ___
 
@@ -205,7 +205,7 @@ shouldn't return with time / timezone info respectively
 
 #### Defined in
 
-[api/src/services/payload.ts:265](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L265)
+[api/src/services/payload.ts:272](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L272)
 
 ___
 
@@ -228,7 +228,7 @@ ___
 
 #### Defined in
 
-[api/src/services/payload.ts:209](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L209)
+[api/src/services/payload.ts:216](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L216)
 
 ___
 
@@ -260,7 +260,7 @@ to check if the value is a raw instance before stringifying it in the next step.
 
 #### Defined in
 
-[api/src/services/payload.ts:242](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L242)
+[api/src/services/payload.ts:249](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L249)
 
 ___
 
@@ -283,7 +283,7 @@ Save/update all nested related m2o items inside the payload
 
 #### Defined in
 
-[api/src/services/payload.ts:461](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L461)
+[api/src/services/payload.ts:468](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L468)
 
 ___
 
@@ -307,7 +307,7 @@ Recursively save/update all nested related o2m items
 
 #### Defined in
 
-[api/src/services/payload.ts:540](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L540)
+[api/src/services/payload.ts:547](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L547)
 
 ___
 
@@ -328,7 +328,7 @@ ___
 
 #### Defined in
 
-[api/src/services/payload.ts:140](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L140)
+[api/src/services/payload.ts:147](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L147)
 
 ▸ **processValues**(`action`, `payload`): `Promise`<`Partial`<`Item`\>\>
 
@@ -345,4 +345,4 @@ ___
 
 #### Defined in
 
-[api/src/services/payload.ts:141](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/payload.ts#L141)
+[api/src/services/payload.ts:148](https://github.com/directus/directus/blob/953c2f95d/api/src/services/payload.ts#L148)

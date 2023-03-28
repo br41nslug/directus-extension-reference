@@ -47,7 +47,7 @@
 
 #### Defined in
 
-[api/src/services/fields.ts:38](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L38)
+[api/src/services/fields.ts:37](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L37)
 
 ## Properties
 
@@ -57,7 +57,7 @@
 
 #### Defined in
 
-[api/src/services/fields.ts:30](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L30)
+[api/src/services/fields.ts:29](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L29)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:35](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L35)
+[api/src/services/fields.ts:34](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L34)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:29](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L29)
+[api/src/services/fields.ts:28](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L28)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:31](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L31)
+[api/src/services/fields.ts:30](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L30)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:28](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L28)
+[api/src/services/fields.ts:27](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L27)
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:32](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L32)
+[api/src/services/fields.ts:31](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L31)
 
 ___
 
@@ -125,7 +125,7 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:34](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L34)
+[api/src/services/fields.ts:33](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L33)
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:33](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L33)
+[api/src/services/fields.ts:32](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L32)
 
 ___
 
@@ -145,7 +145,7 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:36](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L36)
+[api/src/services/fields.ts:35](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L35)
 
 ## Accessors
 
@@ -159,7 +159,7 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:53](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L53)
+[api/src/services/fields.ts:52](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L52)
 
 ## Methods
 
@@ -181,7 +181,7 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:645](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L645)
+[api/src/services/fields.ts:644](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L644)
 
 ___
 
@@ -204,7 +204,7 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:244](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L244)
+[api/src/services/fields.ts:243](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L243)
 
 ___
 
@@ -226,7 +226,7 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:479](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L479)
+[api/src/services/fields.ts:478](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L478)
 
 ___
 
@@ -246,7 +246,7 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:59](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L59)
+[api/src/services/fields.ts:58](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L58)
 
 ___
 
@@ -267,7 +267,7 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:188](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L188)
+[api/src/services/fields.ts:187](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L187)
 
 ___
 
@@ -289,4 +289,4 @@ ___
 
 #### Defined in
 
-[api/src/services/fields.ts:360](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/fields.ts#L360)
+[api/src/services/fields.ts:359](https://github.com/directus/directus/blob/953c2f95d/api/src/services/fields.ts#L359)

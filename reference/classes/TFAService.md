@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[api/src/services/tfa.ts:12](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/tfa.ts#L12)
+[api/src/services/tfa.ts:12](https://github.com/directus/directus/blob/953c2f95d/api/src/services/tfa.ts#L12)
 
 ## Properties
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[api/src/services/tfa.ts:10](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/tfa.ts#L10)
+[api/src/services/tfa.ts:10](https://github.com/directus/directus/blob/953c2f95d/api/src/services/tfa.ts#L10)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[api/src/services/tfa.ts:9](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/tfa.ts#L9)
+[api/src/services/tfa.ts:9](https://github.com/directus/directus/blob/953c2f95d/api/src/services/tfa.ts#L9)
 
 ## Methods
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[api/src/services/tfa.ts:65](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/tfa.ts#L65)
+[api/src/services/tfa.ts:65](https://github.com/directus/directus/blob/953c2f95d/api/src/services/tfa.ts#L65)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[api/src/services/tfa.ts:51](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/tfa.ts#L51)
+[api/src/services/tfa.ts:51](https://github.com/directus/directus/blob/953c2f95d/api/src/services/tfa.ts#L51)
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 #### Defined in
 
-[api/src/services/tfa.ts:31](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/tfa.ts#L31)
+[api/src/services/tfa.ts:31](https://github.com/directus/directus/blob/953c2f95d/api/src/services/tfa.ts#L31)
 
 ___
 
@@ -138,4 +138,4 @@ ___
 
 #### Defined in
 
-[api/src/services/tfa.ts:17](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/tfa.ts#L17)
+[api/src/services/tfa.ts:17](https://github.com/directus/directus/blob/953c2f95d/api/src/services/tfa.ts#L17)

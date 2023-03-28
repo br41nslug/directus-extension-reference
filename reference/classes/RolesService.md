@@ -63,7 +63,7 @@
 
 #### Defined in
 
-[api/src/services/roles.ts:10](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/roles.ts#L10)
+[api/src/services/roles.ts:10](https://github.com/directus/directus/blob/953c2f95d/api/src/services/roles.ts#L10)
 
 ## Properties
 
@@ -77,7 +77,7 @@
 
 #### Defined in
 
-[api/src/services/items.ts:36](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L36)
+[api/src/services/items.ts:36](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L36)
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:39](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L39)
+[api/src/services/items.ts:39](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L39)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:34](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L34)
+[api/src/services/items.ts:34](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L34)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:37](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L37)
+[api/src/services/items.ts:37](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L37)
 
 ___
 
@@ -133,7 +133,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:35](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L35)
+[api/src/services/items.ts:35](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L35)
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:38](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L38)
+[api/src/services/items.ts:38](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L38)
 
 ## Methods
 
@@ -167,7 +167,7 @@ ___
 
 #### Defined in
 
-[api/src/services/roles.ts:14](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/roles.ts#L14)
+[api/src/services/roles.ts:14](https://github.com/directus/directus/blob/953c2f95d/api/src/services/roles.ts#L14)
 
 ___
 
@@ -188,7 +188,7 @@ ___
 
 #### Defined in
 
-[api/src/services/roles.ts:27](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/roles.ts#L27)
+[api/src/services/roles.ts:27](https://github.com/directus/directus/blob/953c2f95d/api/src/services/roles.ts#L27)
 
 ___
 
@@ -215,7 +215,7 @@ Create multiple new items at once. Inserts all provided records sequentially wra
 
 #### Defined in
 
-[api/src/services/items.ts:276](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L276)
+[api/src/services/items.ts:278](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L278)
 
 ___
 
@@ -242,7 +242,7 @@ Create a single new item.
 
 #### Defined in
 
-[api/src/services/items.ts:72](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L72)
+[api/src/services/items.ts:72](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L72)
 
 ___
 
@@ -269,7 +269,7 @@ Delete multiple items by query
 
 #### Defined in
 
-[api/src/services/roles.ts:185](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/roles.ts#L185)
+[api/src/services/roles.ts:189](https://github.com/directus/directus/blob/953c2f95d/api/src/services/roles.ts#L189)
 
 ___
 
@@ -295,7 +295,7 @@ Delete multiple items by primary key
 
 #### Defined in
 
-[api/src/services/roles.ts:118](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/roles.ts#L118)
+[api/src/services/roles.ts:122](https://github.com/directus/directus/blob/953c2f95d/api/src/services/roles.ts#L122)
 
 ___
 
@@ -321,7 +321,7 @@ Delete a single item by primary key
 
 #### Defined in
 
-[api/src/services/roles.ts:113](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/roles.ts#L113)
+[api/src/services/roles.ts:117](https://github.com/directus/directus/blob/953c2f95d/api/src/services/roles.ts#L117)
 
 ___
 
@@ -345,7 +345,7 @@ ___
 
 #### Defined in
 
-[api/src/services/items.ts:52](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L52)
+[api/src/services/items.ts:52](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L52)
 
 ___
 
@@ -372,7 +372,7 @@ Get items by query
 
 #### Defined in
 
-[api/src/services/items.ts:319](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L319)
+[api/src/services/items.ts:321](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L321)
 
 ___
 
@@ -400,7 +400,7 @@ Get multiple items by primary keys
 
 #### Defined in
 
-[api/src/services/items.ts:425](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L425)
+[api/src/services/items.ts:427](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L427)
 
 ___
 
@@ -428,7 +428,7 @@ Get single item by primary key
 
 #### Defined in
 
-[api/src/services/items.ts:406](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L406)
+[api/src/services/items.ts:408](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L408)
 
 ___
 
@@ -455,7 +455,7 @@ Read/treat collection as singleton
 
 #### Defined in
 
-[api/src/services/items.ts:880](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L880)
+[api/src/services/items.ts:882](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L882)
 
 ___
 
@@ -482,7 +482,7 @@ Update multiple items in a single transaction
 
 #### Defined in
 
-[api/src/services/roles.ts:84](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/roles.ts#L84)
+[api/src/services/roles.ts:84](https://github.com/directus/directus/blob/953c2f95d/api/src/services/roles.ts#L84)
 
 ___
 
@@ -510,7 +510,7 @@ Update multiple items by query
 
 #### Defined in
 
-[api/src/services/items.ts:445](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L445)
+[api/src/services/items.ts:447](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L447)
 
 ___
 
@@ -538,7 +538,7 @@ Update many items by primary key, setting all items to the same change
 
 #### Defined in
 
-[api/src/services/roles.ts:101](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/roles.ts#L101)
+[api/src/services/roles.ts:101](https://github.com/directus/directus/blob/953c2f95d/api/src/services/roles.ts#L101)
 
 ___
 
@@ -566,7 +566,7 @@ Update a single item by primary key
 
 #### Defined in
 
-[api/src/services/roles.ts:72](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/roles.ts#L72)
+[api/src/services/roles.ts:72](https://github.com/directus/directus/blob/953c2f95d/api/src/services/roles.ts#L72)
 
 ___
 
@@ -593,7 +593,7 @@ Upsert many items
 
 #### Defined in
 
-[api/src/services/items.ts:738](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L738)
+[api/src/services/items.ts:740](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L740)
 
 ___
 
@@ -620,7 +620,7 @@ Upsert a single item
 
 #### Defined in
 
-[api/src/services/items.ts:712](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L712)
+[api/src/services/items.ts:714](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L714)
 
 ___
 
@@ -647,4 +647,4 @@ Upsert/treat collection as singleton
 
 #### Defined in
 
-[api/src/services/items.ts:916](https://github.com/directus/directus/blob/9368dbd0c/api/src/services/items.ts#L916)
+[api/src/services/items.ts:918](https://github.com/directus/directus/blob/953c2f95d/api/src/services/items.ts#L918)
