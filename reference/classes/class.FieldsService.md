@@ -24,7 +24,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:39](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L39)
+[api/src/services/fields.ts:39](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L39)
 
 ## Properties
 
@@ -34,7 +34,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:31](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L31)
+[api/src/services/fields.ts:31](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L31)
 
 ---
 
@@ -44,7 +44,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:36](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L36)
+[api/src/services/fields.ts:36](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L36)
 
 ---
 
@@ -63,6 +63,10 @@
 > **schema**: `SchemaHelperMySQL` \| `SchemaHelperDefault` \| `SchemaHelperCockroachDb` \| `SchemaHelperSQLite` \|
 > `SchemaHelperOracle` \| `SchemaHelperMSSQL`
 >
+> ##### helpers.sequence
+>
+> **sequence**: `AutoIncrementHelperDefault` \| `AutoIncrementHelperPostgres`
+>
 > ##### helpers.st
 >
 > **st**: `GeometryHelperMySQL` \| `GeometryHelperPostgres` \| `GeometryHelperSQLite` \| `GeometryHelperOracle` \|
@@ -70,7 +74,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:30](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L30)
+[api/src/services/fields.ts:30](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L30)
 
 ---
 
@@ -80,7 +84,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:32](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L32)
+[api/src/services/fields.ts:32](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L32)
 
 ---
 
@@ -90,7 +94,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:29](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L29)
+[api/src/services/fields.ts:29](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L29)
 
 ---
 
@@ -100,7 +104,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:33](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L33)
+[api/src/services/fields.ts:33](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L33)
 
 ---
 
@@ -110,7 +114,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:35](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L35)
+[api/src/services/fields.ts:35](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L35)
 
 ---
 
@@ -120,7 +124,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:34](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L34)
+[api/src/services/fields.ts:34](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L34)
 
 ---
 
@@ -130,7 +134,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:37](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L37)
+[api/src/services/fields.ts:37](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L37)
 
 ## Accessors
 
@@ -140,7 +144,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:54](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L54)
+[api/src/services/fields.ts:54](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L54)
 
 ## Methods
 
@@ -162,7 +166,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:662](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L662)
+[api/src/services/fields.ts:665](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L665)
 
 ---
 
@@ -185,7 +189,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:246](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L246)
+[api/src/services/fields.ts:249](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L249)
 
 ---
 
@@ -207,7 +211,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:496](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L496)
+[api/src/services/fields.ts:499](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L499)
 
 ---
 
@@ -227,7 +231,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:60](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L60)
+[api/src/services/fields.ts:60](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L60)
 
 ---
 
@@ -248,7 +252,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:189](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L189)
+[api/src/services/fields.ts:192](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L192)
 
 ---
 
@@ -270,7 +274,7 @@
 
 #### Source
 
-[api/src/services/fields.ts:373](https://github.com/directus/directus/blob/67c008df3/api/src/services/fields.ts#L373)
+[api/src/services/fields.ts:376](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/fields.ts#L376)
 
 ---
 

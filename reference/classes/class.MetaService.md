@@ -24,7 +24,7 @@
 
 #### Source
 
-[api/src/services/meta.ts:13](https://github.com/directus/directus/blob/67c008df3/api/src/services/meta.ts#L13)
+[api/src/services/meta.ts:13](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/meta.ts#L13)
 
 ## Properties
 
@@ -34,7 +34,7 @@
 
 #### Source
 
-[api/src/services/meta.ts:10](https://github.com/directus/directus/blob/67c008df3/api/src/services/meta.ts#L10)
+[api/src/services/meta.ts:10](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/meta.ts#L10)
 
 ---
 
@@ -44,7 +44,7 @@
 
 #### Source
 
-[api/src/services/meta.ts:9](https://github.com/directus/directus/blob/67c008df3/api/src/services/meta.ts#L9)
+[api/src/services/meta.ts:9](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/meta.ts#L9)
 
 ---
 
@@ -54,7 +54,7 @@
 
 #### Source
 
-[api/src/services/meta.ts:11](https://github.com/directus/directus/blob/67c008df3/api/src/services/meta.ts#L11)
+[api/src/services/meta.ts:11](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/meta.ts#L11)
 
 ## Methods
 
@@ -75,7 +75,7 @@
 
 #### Source
 
-[api/src/services/meta.ts:58](https://github.com/directus/directus/blob/67c008df3/api/src/services/meta.ts#L58)
+[api/src/services/meta.ts:58](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/meta.ts#L58)
 
 ---
 
@@ -96,7 +96,7 @@
 
 #### Source
 
-[api/src/services/meta.ts:19](https://github.com/directus/directus/blob/67c008df3/api/src/services/meta.ts#L19)
+[api/src/services/meta.ts:19](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/meta.ts#L19)
 
 ---
 
@@ -116,7 +116,7 @@
 
 #### Source
 
-[api/src/services/meta.ts:38](https://github.com/directus/directus/blob/67c008df3/api/src/services/meta.ts#L38)
+[api/src/services/meta.ts:38](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/meta.ts#L38)
 
 ---
 

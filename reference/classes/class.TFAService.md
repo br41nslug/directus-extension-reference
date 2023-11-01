@@ -24,7 +24,7 @@
 
 #### Source
 
-[api/src/services/tfa.ts:12](https://github.com/directus/directus/blob/67c008df3/api/src/services/tfa.ts#L12)
+[api/src/services/tfa.ts:12](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/tfa.ts#L12)
 
 ## Properties
 
@@ -34,7 +34,7 @@
 
 #### Source
 
-[api/src/services/tfa.ts:10](https://github.com/directus/directus/blob/67c008df3/api/src/services/tfa.ts#L10)
+[api/src/services/tfa.ts:10](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/tfa.ts#L10)
 
 ---
 
@@ -44,7 +44,7 @@
 
 #### Source
 
-[api/src/services/tfa.ts:9](https://github.com/directus/directus/blob/67c008df3/api/src/services/tfa.ts#L9)
+[api/src/services/tfa.ts:9](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/tfa.ts#L9)
 
 ## Methods
 
@@ -64,7 +64,7 @@
 
 #### Source
 
-[api/src/services/tfa.ts:65](https://github.com/directus/directus/blob/67c008df3/api/src/services/tfa.ts#L65)
+[api/src/services/tfa.ts:65](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/tfa.ts#L65)
 
 ---
 
@@ -86,7 +86,7 @@
 
 #### Source
 
-[api/src/services/tfa.ts:51](https://github.com/directus/directus/blob/67c008df3/api/src/services/tfa.ts#L51)
+[api/src/services/tfa.ts:51](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/tfa.ts#L51)
 
 ---
 
@@ -106,7 +106,7 @@
 
 #### Source
 
-[api/src/services/tfa.ts:31](https://github.com/directus/directus/blob/67c008df3/api/src/services/tfa.ts#L31)
+[api/src/services/tfa.ts:31](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/tfa.ts#L31)
 
 ---
 
@@ -128,7 +128,7 @@
 
 #### Source
 
-[api/src/services/tfa.ts:17](https://github.com/directus/directus/blob/67c008df3/api/src/services/tfa.ts#L17)
+[api/src/services/tfa.ts:17](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/tfa.ts#L17)
 
 ---
 

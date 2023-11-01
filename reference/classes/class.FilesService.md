@@ -32,7 +32,7 @@
 
 #### Source
 
-[api/src/services/files.ts:26](https://github.com/directus/directus/blob/67c008df3/api/src/services/files.ts#L26)
+[api/src/services/files.ts:32](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/files.ts#L32)
 
 ## Properties
 
@@ -42,7 +42,7 @@
 
 #### Source
 
-[api/src/services/items.ts:43](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L43)
+[api/src/services/items.ts:43](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L43)
 
 #### Inherited from
 
@@ -56,7 +56,7 @@
 
 #### Source
 
-[api/src/services/items.ts:46](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L46)
+[api/src/services/items.ts:46](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L46)
 
 #### Inherited from
 
@@ -70,7 +70,7 @@
 
 #### Source
 
-[api/src/services/items.ts:41](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L41)
+[api/src/services/items.ts:41](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L41)
 
 #### Inherited from
 
@@ -84,7 +84,7 @@
 
 #### Source
 
-[api/src/services/items.ts:44](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L44)
+[api/src/services/items.ts:44](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L44)
 
 #### Inherited from
 
@@ -98,7 +98,7 @@
 
 #### Source
 
-[api/src/services/items.ts:42](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L42)
+[api/src/services/items.ts:42](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L42)
 
 #### Inherited from
 
@@ -112,7 +112,7 @@
 
 #### Source
 
-[api/src/services/items.ts:45](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L45)
+[api/src/services/items.ts:45](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L45)
 
 #### Inherited from
 
@@ -143,7 +143,7 @@ Create multiple new items at once. Inserts all provided records sequentially wra
 
 #### Source
 
-[api/src/services/items.ts:313](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L313)
+[api/src/services/items.ts:337](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L337)
 
 ---
 
@@ -167,7 +167,7 @@ Create multiple new items at once. Inserts all provided records sequentially wra
 
 #### Source
 
-[api/src/services/items.ts:59](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L59)
+[api/src/services/items.ts:59](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L59)
 
 ---
 
@@ -180,10 +180,10 @@ existing file in storage
 
 #### Parameters
 
-| Parameter | Type                  |
-| :-------- | :-------------------- |
-| `data`    | `Partial`\< `File` \> |
-| `opts`?   | `MutationOptions`     |
+| Parameter | Type              |
+| :-------- | :---------------- |
+| `data`    | `File`            |
+| `opts`?   | `MutationOptions` |
 
 #### Returns
 
@@ -195,7 +195,7 @@ existing file in storage
 
 #### Source
 
-[api/src/services/files.ts:304](https://github.com/directus/directus/blob/67c008df3/api/src/services/files.ts#L304)
+[api/src/services/files.ts:311](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/files.ts#L311)
 
 ---
 
@@ -222,7 +222,7 @@ Delete multiple items by query
 
 #### Source
 
-[api/src/services/items.ts:824](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L824)
+[api/src/services/items.ts:859](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L859)
 
 ---
 
@@ -248,7 +248,7 @@ Delete multiple files
 
 #### Source
 
-[api/src/services/files.ts:324](https://github.com/directus/directus/blob/67c008df3/api/src/services/files.ts#L324)
+[api/src/services/files.ts:331](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/files.ts#L331)
 
 ---
 
@@ -274,7 +274,7 @@ Delete a file
 
 #### Source
 
-[api/src/services/files.ts:316](https://github.com/directus/directus/blob/67c008df3/api/src/services/files.ts#L316)
+[api/src/services/files.ts:323](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/files.ts#L323)
 
 ---
 
@@ -298,13 +298,14 @@ Delete a file
 
 #### Source
 
-[api/src/services/items.ts:76](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L76)
+[api/src/services/items.ts:76](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L76)
 
 ---
 
 ### getMetadata()
 
-> **getMetadata**(`stream`, `allowList` = `...`): `Promise`\< `Metadata` \>
+> **getMetadata**(`stream`, `allowList` = `...`): `Promise`\< `Partial`\< `Pick`\< `File`, `"height"` \| `"width"` \|
+> `"description"` \| `"title"` \| `"tags"` \| `"metadata"` \> \> \>
 
 Extract metadata from a buffer's content
 
@@ -317,11 +318,12 @@ Extract metadata from a buffer's content
 
 #### Returns
 
-`Promise`\< `Metadata` \>
+`Promise`\< `Partial`\< `Pick`\< `File`, `"height"` \| `"width"` \| `"description"` \| `"title"` \| `"tags"` \|
+`"metadata"` \> \> \>
 
 #### Source
 
-[api/src/services/files.ts:142](https://github.com/directus/directus/blob/67c008df3/api/src/services/files.ts#L142)
+[api/src/services/files.ts:148](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/files.ts#L148)
 
 ---
 
@@ -333,10 +335,10 @@ Import a single file from an external URL
 
 #### Parameters
 
-| Parameter   | Type                  |
-| :---------- | :-------------------- |
-| `importURL` | `string`              |
-| `body`      | `Partial`\< `File` \> |
+| Parameter   | Type     |
+| :---------- | :------- |
+| `importURL` | `string` |
+| `body`      | `File`   |
 
 #### Returns
 
@@ -344,7 +346,7 @@ Import a single file from an external URL
 
 #### Source
 
-[api/src/services/files.ts:261](https://github.com/directus/directus/blob/67c008df3/api/src/services/files.ts#L261)
+[api/src/services/files.ts:267](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/files.ts#L267)
 
 ---
 
@@ -371,7 +373,7 @@ Get items by query
 
 #### Source
 
-[api/src/services/items.ts:360](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L360)
+[api/src/services/items.ts:395](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L395)
 
 ---
 
@@ -399,7 +401,7 @@ Get multiple items by primary keys
 
 #### Source
 
-[api/src/services/items.ts:466](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L466)
+[api/src/services/items.ts:501](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L501)
 
 ---
 
@@ -427,7 +429,7 @@ Get single item by primary key
 
 #### Source
 
-[api/src/services/items.ts:447](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L447)
+[api/src/services/items.ts:482](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L482)
 
 ---
 
@@ -454,7 +456,7 @@ Read/treat collection as singleton
 
 #### Source
 
-[api/src/services/items.ts:947](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L947)
+[api/src/services/items.ts:982](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L982)
 
 ---
 
@@ -481,7 +483,7 @@ Update multiple items in a single transaction
 
 #### Source
 
-[api/src/services/items.ts:509](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L509)
+[api/src/services/items.ts:544](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L544)
 
 ---
 
@@ -509,7 +511,7 @@ Update multiple items by query
 
 #### Source
 
-[api/src/services/items.ts:486](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L486)
+[api/src/services/items.ts:521](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L521)
 
 ---
 
@@ -537,7 +539,7 @@ Update many items by primary key, setting all items to the same change
 
 #### Source
 
-[api/src/services/items.ts:546](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L546)
+[api/src/services/items.ts:581](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L581)
 
 ---
 
@@ -565,7 +567,7 @@ Update a single item by primary key
 
 #### Source
 
-[api/src/services/items.ts:498](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L498)
+[api/src/services/items.ts:533](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L533)
 
 ---
 
@@ -577,12 +579,12 @@ Upload a single new file to the configured storage adapter
 
 #### Parameters
 
-| Parameter     | Type                                            |
-| :------------ | :---------------------------------------------- |
-| `stream`      | `Readable`                                      |
-| `data`        | `Partial`\< `File` \> & \{`storage`: `string`;} |
-| `primaryKey`? | `PrimaryKey`                                    |
-| `opts`?       | `MutationOptions`                               |
+| Parameter     | Type              |
+| :------------ | :---------------- |
+| `stream`      | `Readable`        |
+| `data`        | `any`             |
+| `primaryKey`? | `PrimaryKey`      |
+| `opts`?       | `MutationOptions` |
 
 #### Returns
 
@@ -590,7 +592,7 @@ Upload a single new file to the configured storage adapter
 
 #### Source
 
-[api/src/services/files.ts:33](https://github.com/directus/directus/blob/67c008df3/api/src/services/files.ts#L33)
+[api/src/services/files.ts:39](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/files.ts#L39)
 
 ---
 
@@ -617,7 +619,7 @@ Upsert many items
 
 #### Source
 
-[api/src/services/items.ts:794](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L794)
+[api/src/services/items.ts:829](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L829)
 
 ---
 
@@ -644,7 +646,7 @@ Upsert a single item
 
 #### Source
 
-[api/src/services/items.ts:768](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L768)
+[api/src/services/items.ts:803](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L803)
 
 ---
 
@@ -671,7 +673,7 @@ Upsert/treat collection as singleton
 
 #### Source
 
-[api/src/services/items.ts:983](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L983)
+[api/src/services/items.ts:1018](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L1018)
 
 ---
 

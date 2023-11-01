@@ -24,7 +24,7 @@
 
 #### Source
 
-[api/src/services/assets.ts:32](https://github.com/directus/directus/blob/67c008df3/api/src/services/assets.ts#L32)
+[api/src/services/assets.ts:32](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/assets.ts#L32)
 
 ## Properties
 
@@ -34,7 +34,7 @@
 
 #### Source
 
-[api/src/services/assets.ts:29](https://github.com/directus/directus/blob/67c008df3/api/src/services/assets.ts#L29)
+[api/src/services/assets.ts:29](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/assets.ts#L29)
 
 ---
 
@@ -44,7 +44,7 @@
 
 #### Source
 
-[api/src/services/assets.ts:30](https://github.com/directus/directus/blob/67c008df3/api/src/services/assets.ts#L30)
+[api/src/services/assets.ts:30](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/assets.ts#L30)
 
 ---
 
@@ -54,22 +54,22 @@
 
 #### Source
 
-[api/src/services/assets.ts:28](https://github.com/directus/directus/blob/67c008df3/api/src/services/assets.ts#L28)
+[api/src/services/assets.ts:28](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/assets.ts#L28)
 
 ## Methods
 
 ### getAsset()
 
-> **getAsset**( `id`, `transformation`, `range`?): `Promise`\< \{`file`: `any`; `stat`: `Stat`; `stream`: `Readable`;}
+> **getAsset**( `id`, `transformation`?, `range`?): `Promise`\< \{`file`: `any`; `stat`: `Stat`; `stream`: `Readable`;}
 > \>
 
 #### Parameters
 
-| Parameter        | Type                |
-| :--------------- | :------------------ |
-| `id`             | `string`            |
-| `transformation` | `TransformationSet` |
-| `range`?         | `any`               |
+| Parameter         | Type                |
+| :---------------- | :------------------ |
+| `id`              | `string`            |
+| `transformation`? | `TransformationSet` |
+| `range`?          | `any`               |
 
 #### Returns
 
@@ -77,7 +77,7 @@
 
 #### Source
 
-[api/src/services/assets.ts:38](https://github.com/directus/directus/blob/67c008df3/api/src/services/assets.ts#L38)
+[api/src/services/assets.ts:38](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/assets.ts#L38)
 
 ---
 

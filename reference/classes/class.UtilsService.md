@@ -24,7 +24,7 @@
 
 #### Source
 
-[api/src/services/utils.ts:14](https://github.com/directus/directus/blob/67c008df3/api/src/services/utils.ts#L14)
+[api/src/services/utils.ts:16](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/utils.ts#L16)
 
 ## Properties
 
@@ -34,7 +34,7 @@
 
 #### Source
 
-[api/src/services/utils.ts:11](https://github.com/directus/directus/blob/67c008df3/api/src/services/utils.ts#L11)
+[api/src/services/utils.ts:13](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/utils.ts#L13)
 
 ---
 
@@ -44,7 +44,7 @@
 
 #### Source
 
-[api/src/services/utils.ts:10](https://github.com/directus/directus/blob/67c008df3/api/src/services/utils.ts#L10)
+[api/src/services/utils.ts:12](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/utils.ts#L12)
 
 ---
 
@@ -54,9 +54,23 @@
 
 #### Source
 
-[api/src/services/utils.ts:12](https://github.com/directus/directus/blob/67c008df3/api/src/services/utils.ts#L12)
+[api/src/services/utils.ts:14](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/utils.ts#L14)
 
 ## Methods
+
+### clearCache()
+
+> **clearCache**(): `Promise`\< `void` \>
+
+#### Returns
+
+`Promise`\< `void` \>
+
+#### Source
+
+[api/src/services/utils.ts:151](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/utils.ts#L151)
+
+---
 
 ### sort()
 
@@ -77,7 +91,7 @@
 
 #### Source
 
-[api/src/services/utils.ts:20](https://github.com/directus/directus/blob/67c008df3/api/src/services/utils.ts#L20)
+[api/src/services/utils.ts:22](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/utils.ts#L22)
 
 ---
 

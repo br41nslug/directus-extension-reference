@@ -24,7 +24,7 @@
 
 #### Source
 
-[api/src/services/authentication.ts:30](https://github.com/directus/directus/blob/67c008df3/api/src/services/authentication.ts#L30)
+[api/src/services/authentication.ts:30](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/authentication.ts#L30)
 
 ## Properties
 
@@ -34,7 +34,7 @@
 
 #### Source
 
-[api/src/services/authentication.ts:26](https://github.com/directus/directus/blob/67c008df3/api/src/services/authentication.ts#L26)
+[api/src/services/authentication.ts:26](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/authentication.ts#L26)
 
 ---
 
@@ -44,7 +44,7 @@
 
 #### Source
 
-[api/src/services/authentication.ts:27](https://github.com/directus/directus/blob/67c008df3/api/src/services/authentication.ts#L27)
+[api/src/services/authentication.ts:27](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/authentication.ts#L27)
 
 ---
 
@@ -54,7 +54,7 @@
 
 #### Source
 
-[api/src/services/authentication.ts:25](https://github.com/directus/directus/blob/67c008df3/api/src/services/authentication.ts#L25)
+[api/src/services/authentication.ts:25](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/authentication.ts#L25)
 
 ---
 
@@ -64,7 +64,7 @@
 
 #### Source
 
-[api/src/services/authentication.ts:28](https://github.com/directus/directus/blob/67c008df3/api/src/services/authentication.ts#L28)
+[api/src/services/authentication.ts:28](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/authentication.ts#L28)
 
 ## Methods
 
@@ -91,7 +91,7 @@ existence checks elsewhere
 
 #### Source
 
-[api/src/services/authentication.ts:43](https://github.com/directus/directus/blob/67c008df3/api/src/services/authentication.ts#L43)
+[api/src/services/authentication.ts:43](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/authentication.ts#L43)
 
 ---
 
@@ -111,7 +111,7 @@ existence checks elsewhere
 
 #### Source
 
-[api/src/services/authentication.ts:401](https://github.com/directus/directus/blob/67c008df3/api/src/services/authentication.ts#L401)
+[api/src/services/authentication.ts:401](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/authentication.ts#L401)
 
 ---
 
@@ -131,7 +131,7 @@ existence checks elsewhere
 
 #### Source
 
-[api/src/services/authentication.ts:252](https://github.com/directus/directus/blob/67c008df3/api/src/services/authentication.ts#L252)
+[api/src/services/authentication.ts:252](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/authentication.ts#L252)
 
 ---
 
@@ -152,7 +152,7 @@ existence checks elsewhere
 
 #### Source
 
-[api/src/services/authentication.ts:430](https://github.com/directus/directus/blob/67c008df3/api/src/services/authentication.ts#L430)
+[api/src/services/authentication.ts:430](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/authentication.ts#L430)
 
 ---
 

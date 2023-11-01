@@ -24,7 +24,7 @@
 
 #### Source
 
-[api/src/services/relations.ts:31](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L31)
+[api/src/services/relations.ts:31](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L31)
 
 ## Properties
 
@@ -34,7 +34,7 @@
 
 #### Source
 
-[api/src/services/relations.ts:25](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L25)
+[api/src/services/relations.ts:25](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L25)
 
 ---
 
@@ -53,6 +53,10 @@
 > **schema**: `SchemaHelperMySQL` \| `SchemaHelperDefault` \| `SchemaHelperCockroachDb` \| `SchemaHelperSQLite` \|
 > `SchemaHelperOracle` \| `SchemaHelperMSSQL`
 >
+> ##### helpers.sequence
+>
+> **sequence**: `AutoIncrementHelperDefault` \| `AutoIncrementHelperPostgres`
+>
 > ##### helpers.st
 >
 > **st**: `GeometryHelperMySQL` \| `GeometryHelperPostgres` \| `GeometryHelperSQLite` \| `GeometryHelperOracle` \|
@@ -60,7 +64,7 @@
 
 #### Source
 
-[api/src/services/relations.ts:29](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L29)
+[api/src/services/relations.ts:29](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L29)
 
 ---
 
@@ -70,7 +74,7 @@
 
 #### Source
 
-[api/src/services/relations.ts:22](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L22)
+[api/src/services/relations.ts:22](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L22)
 
 ---
 
@@ -80,7 +84,7 @@
 
 #### Source
 
-[api/src/services/relations.ts:23](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L23)
+[api/src/services/relations.ts:23](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L23)
 
 ---
 
@@ -90,7 +94,7 @@
 
 #### Source
 
-[api/src/services/relations.ts:27](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L27)
+[api/src/services/relations.ts:27](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L27)
 
 ---
 
@@ -100,7 +104,7 @@
 
 #### Source
 
-[api/src/services/relations.ts:26](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L26)
+[api/src/services/relations.ts:26](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L26)
 
 ---
 
@@ -110,7 +114,7 @@
 
 #### Source
 
-[api/src/services/relations.ts:24](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L24)
+[api/src/services/relations.ts:24](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L24)
 
 ---
 
@@ -120,7 +124,7 @@
 
 #### Source
 
-[api/src/services/relations.ts:28](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L28)
+[api/src/services/relations.ts:28](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L28)
 
 ## Accessors
 
@@ -130,7 +134,7 @@
 
 #### Source
 
-[api/src/services/relations.ts:451](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L451)
+[api/src/services/relations.ts:451](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L451)
 
 ## Methods
 
@@ -161,7 +165,7 @@ This is a bit of a hack, and might be better of abstracted elsewhere
 
 #### Source
 
-[api/src/services/relations.ts:569](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L569)
+[api/src/services/relations.ts:569](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L569)
 
 ---
 
@@ -184,7 +188,7 @@ Create a new relationship / foreign key constraint
 
 #### Source
 
-[api/src/services/relations.ts:133](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L133)
+[api/src/services/relations.ts:133](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L133)
 
 ---
 
@@ -208,7 +212,7 @@ Delete an existing relationship
 
 #### Source
 
-[api/src/services/relations.ts:365](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L365)
+[api/src/services/relations.ts:365](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L365)
 
 ---
 
@@ -230,7 +234,7 @@ Loop over all relations and filter out the ones that contain collections/fields 
 
 #### Source
 
-[api/src/services/relations.ts:504](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L504)
+[api/src/services/relations.ts:504](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L504)
 
 ---
 
@@ -251,7 +255,7 @@ Loop over all relations and filter out the ones that contain collections/fields 
 
 #### Source
 
-[api/src/services/relations.ts:50](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L50)
+[api/src/services/relations.ts:50](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L50)
 
 ---
 
@@ -272,7 +276,7 @@ Loop over all relations and filter out the ones that contain collections/fields 
 
 #### Source
 
-[api/src/services/relations.ts:80](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L80)
+[api/src/services/relations.ts:80](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L80)
 
 ---
 
@@ -295,7 +299,7 @@ Combine raw schema foreign key information with Directus relations meta rows to 
 
 #### Source
 
-[api/src/services/relations.ts:461](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L461)
+[api/src/services/relations.ts:461](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L461)
 
 ---
 
@@ -322,7 +326,7 @@ Note: You can update anything under meta, but only the `on_delete` trigger under
 
 #### Source
 
-[api/src/services/relations.ts:248](https://github.com/directus/directus/blob/67c008df3/api/src/services/relations.ts#L248)
+[api/src/services/relations.ts:248](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/relations.ts#L248)
 
 ---
 

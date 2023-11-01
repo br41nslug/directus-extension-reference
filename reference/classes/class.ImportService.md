@@ -24,7 +24,7 @@
 
 #### Source
 
-[api/src/services/import-export.ts:40](https://github.com/directus/directus/blob/67c008df3/api/src/services/import-export.ts#L40)
+[api/src/services/import-export/index.ts:40](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/import-export/index.ts#L40)
 
 ## Properties
 
@@ -34,7 +34,7 @@
 
 #### Source
 
-[api/src/services/import-export.ts:37](https://github.com/directus/directus/blob/67c008df3/api/src/services/import-export.ts#L37)
+[api/src/services/import-export/index.ts:37](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/import-export/index.ts#L37)
 
 ---
 
@@ -44,7 +44,7 @@
 
 #### Source
 
-[api/src/services/import-export.ts:36](https://github.com/directus/directus/blob/67c008df3/api/src/services/import-export.ts#L36)
+[api/src/services/import-export/index.ts:36](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/import-export/index.ts#L36)
 
 ---
 
@@ -54,7 +54,7 @@
 
 #### Source
 
-[api/src/services/import-export.ts:38](https://github.com/directus/directus/blob/67c008df3/api/src/services/import-export.ts#L38)
+[api/src/services/import-export/index.ts:38](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/import-export/index.ts#L38)
 
 ## Methods
 
@@ -76,7 +76,7 @@
 
 #### Source
 
-[api/src/services/import-export.ts:46](https://github.com/directus/directus/blob/67c008df3/api/src/services/import-export.ts#L46)
+[api/src/services/import-export/index.ts:46](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/import-export/index.ts#L46)
 
 ---
 
@@ -97,7 +97,7 @@
 
 #### Source
 
-[api/src/services/import-export.ts:118](https://github.com/directus/directus/blob/67c008df3/api/src/services/import-export.ts#L118)
+[api/src/services/import-export/index.ts:118](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/import-export/index.ts#L118)
 
 ---
 
@@ -118,7 +118,7 @@
 
 #### Source
 
-[api/src/services/import-export.ts:72](https://github.com/directus/directus/blob/67c008df3/api/src/services/import-export.ts#L72)
+[api/src/services/import-export/index.ts:72](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/import-export/index.ts#L72)
 
 ---
 

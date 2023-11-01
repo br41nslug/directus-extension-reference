@@ -27,7 +27,7 @@ Process a given payload for a collection to ensure the special fields (hash, uui
 
 #### Source
 
-[api/src/services/payload.ts:49](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L49)
+[api/src/services/payload.ts:49](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L49)
 
 ## Properties
 
@@ -37,7 +37,7 @@ Process a given payload for a collection to ensure the special fields (hash, uui
 
 #### Source
 
-[api/src/services/payload.ts:43](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L43)
+[api/src/services/payload.ts:43](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L43)
 
 ---
 
@@ -47,7 +47,7 @@ Process a given payload for a collection to ensure the special fields (hash, uui
 
 #### Source
 
-[api/src/services/payload.ts:46](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L46)
+[api/src/services/payload.ts:46](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L46)
 
 ---
 
@@ -66,6 +66,10 @@ Process a given payload for a collection to ensure the special fields (hash, uui
 > **schema**: `SchemaHelperMySQL` \| `SchemaHelperDefault` \| `SchemaHelperCockroachDb` \| `SchemaHelperSQLite` \|
 > `SchemaHelperOracle` \| `SchemaHelperMSSQL`
 >
+> ##### helpers.sequence
+>
+> **sequence**: `AutoIncrementHelperDefault` \| `AutoIncrementHelperPostgres`
+>
 > ##### helpers.st
 >
 > **st**: `GeometryHelperMySQL` \| `GeometryHelperPostgres` \| `GeometryHelperSQLite` \| `GeometryHelperOracle` \|
@@ -73,7 +77,7 @@ Process a given payload for a collection to ensure the special fields (hash, uui
 
 #### Source
 
-[api/src/services/payload.ts:45](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L45)
+[api/src/services/payload.ts:45](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L45)
 
 ---
 
@@ -83,7 +87,7 @@ Process a given payload for a collection to ensure the special fields (hash, uui
 
 #### Source
 
-[api/src/services/payload.ts:44](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L44)
+[api/src/services/payload.ts:44](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L44)
 
 ---
 
@@ -93,7 +97,7 @@ Process a given payload for a collection to ensure the special fields (hash, uui
 
 #### Source
 
-[api/src/services/payload.ts:47](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L47)
+[api/src/services/payload.ts:47](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L47)
 
 ---
 
@@ -103,7 +107,7 @@ Process a given payload for a collection to ensure the special fields (hash, uui
 
 #### Source
 
-[api/src/services/payload.ts:59](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L59)
+[api/src/services/payload.ts:59](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L59)
 
 ## Methods
 
@@ -125,7 +129,7 @@ Transforms the input partial payload to match the output structure, to have cons
 
 #### Source
 
-[api/src/services/payload.ts:817](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L817)
+[api/src/services/payload.ts:817](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L817)
 
 ---
 
@@ -150,7 +154,7 @@ Recursively save/update all nested related Any-to-One items
 
 #### Source
 
-[api/src/services/payload.ts:384](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L384)
+[api/src/services/payload.ts:384](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L384)
 
 ---
 
@@ -170,7 +174,7 @@ Recursively save/update all nested related Any-to-One items
 
 #### Source
 
-[api/src/services/payload.ts:208](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L208)
+[api/src/services/payload.ts:208](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L208)
 
 ---
 
@@ -194,7 +198,7 @@ time / timezone info respectively
 
 #### Source
 
-[api/src/services/payload.ts:276](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L276)
+[api/src/services/payload.ts:276](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L276)
 
 ---
 
@@ -217,7 +221,7 @@ time / timezone info respectively
 
 #### Source
 
-[api/src/services/payload.ts:219](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L219)
+[api/src/services/payload.ts:219](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L219)
 
 ---
 
@@ -248,7 +252,7 @@ need to check if the value is a raw instance before stringifying it in the next 
 
 #### Source
 
-[api/src/services/payload.ts:252](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L252)
+[api/src/services/payload.ts:252](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L252)
 
 ---
 
@@ -273,7 +277,7 @@ Save/update all nested related m2o items inside the payload
 
 #### Source
 
-[api/src/services/payload.ts:478](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L478)
+[api/src/services/payload.ts:478](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L478)
 
 ---
 
@@ -298,7 +302,7 @@ Recursively save/update all nested related o2m items
 
 #### Source
 
-[api/src/services/payload.ts:559](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L559)
+[api/src/services/payload.ts:559](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L559)
 
 ---
 
@@ -319,7 +323,7 @@ Recursively save/update all nested related o2m items
 
 #### Source
 
-[api/src/services/payload.ts:149](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L149)
+[api/src/services/payload.ts:149](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L149)
 
 > **processValues**(`action`, `payload`): `Promise`\< `Partial`\< `Item` \> \>
 
@@ -336,7 +340,7 @@ Recursively save/update all nested related o2m items
 
 #### Source
 
-[api/src/services/payload.ts:150](https://github.com/directus/directus/blob/67c008df3/api/src/services/payload.ts#L150)
+[api/src/services/payload.ts:150](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/payload.ts#L150)
 
 ---
 

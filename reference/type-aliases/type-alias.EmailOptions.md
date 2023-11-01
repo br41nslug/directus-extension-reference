@@ -24,7 +24,7 @@
 
 ## Source
 
-[api/src/services/mail/index.ts:23](https://github.com/directus/directus/blob/67c008df3/api/src/services/mail/index.ts#L23)
+[api/src/services/mail/index.ts:23](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/mail/index.ts#L23)
 
 ---
 

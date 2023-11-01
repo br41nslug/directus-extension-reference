@@ -13,6 +13,7 @@
 - [CollectionsService](classes/class.CollectionsService.md)
 - [DashboardsService](classes/class.DashboardsService.md)
 - [ExportService](classes/class.ExportService.md)
+- [ExtensionsService](classes/class.ExtensionsService.md)
 - [FieldsService](classes/class.FieldsService.md)
 - [FilesService](classes/class.FilesService.md)
 - [FlowsService](classes/class.FlowsService.md)
@@ -40,6 +41,7 @@
 - [TranslationsService](classes/class.TranslationsService.md)
 - [UsersService](classes/class.UsersService.md)
 - [UtilsService](classes/class.UtilsService.md)
+- [VersionsService](classes/class.VersionsService.md)
 - [WebSocketService](classes/class.WebSocketService.md)
 - [WebhooksService](classes/class.WebhooksService.md)
 

@@ -24,7 +24,7 @@
 
 #### Source
 
-[api/src/services/collections.ts:45](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L45)
+[api/src/services/collections.ts:45](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L45)
 
 ## Properties
 
@@ -34,7 +34,7 @@
 
 #### Source
 
-[api/src/services/collections.ts:39](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L39)
+[api/src/services/collections.ts:39](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L39)
 
 ---
 
@@ -44,7 +44,7 @@
 
 #### Source
 
-[api/src/services/collections.ts:42](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L42)
+[api/src/services/collections.ts:42](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L42)
 
 ---
 
@@ -63,6 +63,10 @@
 > **schema**: `SchemaHelperMySQL` \| `SchemaHelperDefault` \| `SchemaHelperCockroachDb` \| `SchemaHelperSQLite` \|
 > `SchemaHelperOracle` \| `SchemaHelperMSSQL`
 >
+> ##### helpers.sequence
+>
+> **sequence**: `AutoIncrementHelperDefault` \| `AutoIncrementHelperPostgres`
+>
 > ##### helpers.st
 >
 > **st**: `GeometryHelperMySQL` \| `GeometryHelperPostgres` \| `GeometryHelperSQLite` \| `GeometryHelperOracle` \|
@@ -70,7 +74,7 @@
 
 #### Source
 
-[api/src/services/collections.ts:38](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L38)
+[api/src/services/collections.ts:38](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L38)
 
 ---
 
@@ -80,7 +84,7 @@
 
 #### Source
 
-[api/src/services/collections.ts:37](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L37)
+[api/src/services/collections.ts:37](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L37)
 
 ---
 
@@ -90,7 +94,7 @@
 
 #### Source
 
-[api/src/services/collections.ts:41](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L41)
+[api/src/services/collections.ts:41](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L41)
 
 ---
 
@@ -100,7 +104,7 @@
 
 #### Source
 
-[api/src/services/collections.ts:40](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L40)
+[api/src/services/collections.ts:40](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L40)
 
 ---
 
@@ -110,7 +114,7 @@
 
 #### Source
 
-[api/src/services/collections.ts:43](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L43)
+[api/src/services/collections.ts:43](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L43)
 
 ## Methods
 
@@ -133,7 +137,7 @@ Create multiple new collections
 
 #### Source
 
-[api/src/services/collections.ts:224](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L224)
+[api/src/services/collections.ts:224](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L224)
 
 ---
 
@@ -156,7 +160,7 @@ Create a single new collection
 
 #### Source
 
-[api/src/services/collections.ts:60](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L60)
+[api/src/services/collections.ts:60](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L60)
 
 ---
 
@@ -179,7 +183,7 @@ Delete multiple collections by key
 
 #### Source
 
-[api/src/services/collections.ts:702](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L702)
+[api/src/services/collections.ts:702](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L702)
 
 ---
 
@@ -203,7 +207,7 @@ activity, revisions, and permissions relating to this collection
 
 #### Source
 
-[api/src/services/collections.ts:567](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L567)
+[api/src/services/collections.ts:567](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L567)
 
 ---
 
@@ -219,7 +223,7 @@ Read all collections. Currently doesn't support any query.
 
 #### Source
 
-[api/src/services/collections.ts:274](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L274)
+[api/src/services/collections.ts:274](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L274)
 
 ---
 
@@ -241,7 +245,7 @@ Read many collections by name
 
 #### Source
 
-[api/src/services/collections.ts:366](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L366)
+[api/src/services/collections.ts:366](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L366)
 
 ---
 
@@ -263,7 +267,7 @@ Get a single collection by name
 
 #### Source
 
-[api/src/services/collections.ts:355](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L355)
+[api/src/services/collections.ts:355](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L355)
 
 ---
 
@@ -286,7 +290,7 @@ Update multiple collections in a single transaction
 
 #### Source
 
-[api/src/services/collections.ts:457](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L457)
+[api/src/services/collections.ts:457](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L457)
 
 ---
 
@@ -310,7 +314,7 @@ Update multiple collections by name
 
 #### Source
 
-[api/src/services/collections.ts:518](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L518)
+[api/src/services/collections.ts:518](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L518)
 
 ---
 
@@ -334,7 +338,7 @@ Update a single collection by name
 
 #### Source
 
-[api/src/services/collections.ts:390](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L390)
+[api/src/services/collections.ts:390](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L390)
 
 ---
 

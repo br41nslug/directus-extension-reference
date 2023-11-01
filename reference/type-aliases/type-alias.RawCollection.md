@@ -34,7 +34,7 @@
 
 ## Source
 
-[api/src/services/collections.ts:29](https://github.com/directus/directus/blob/67c008df3/api/src/services/collections.ts#L29)
+[api/src/services/collections.ts:29](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/collections.ts#L29)
 
 ---
 

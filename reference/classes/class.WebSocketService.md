@@ -18,7 +18,7 @@
 
 #### Source
 
-[api/src/services/websocket.ts:11](https://github.com/directus/directus/blob/67c008df3/api/src/services/websocket.ts#L11)
+[api/src/services/websocket.ts:14](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/websocket.ts#L14)
 
 ## Properties
 
@@ -28,7 +28,7 @@
 
 #### Source
 
-[api/src/services/websocket.ts:9](https://github.com/directus/directus/blob/67c008df3/api/src/services/websocket.ts#L9)
+[api/src/services/websocket.ts:12](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/websocket.ts#L12)
 
 ## Methods
 
@@ -51,7 +51,7 @@
 
 #### Source
 
-[api/src/services/websocket.ts:23](https://github.com/directus/directus/blob/67c008df3/api/src/services/websocket.ts#L23)
+[api/src/services/websocket.ts:36](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/websocket.ts#L36)
 
 ---
 
@@ -65,7 +65,7 @@
 
 #### Source
 
-[api/src/services/websocket.ts:31](https://github.com/directus/directus/blob/67c008df3/api/src/services/websocket.ts#L31)
+[api/src/services/websocket.ts:44](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/websocket.ts#L44)
 
 ---
 
@@ -86,7 +86,7 @@
 
 #### Source
 
-[api/src/services/websocket.ts:19](https://github.com/directus/directus/blob/67c008df3/api/src/services/websocket.ts#L19)
+[api/src/services/websocket.ts:32](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/websocket.ts#L32)
 
 ---
 
@@ -107,7 +107,7 @@
 
 #### Source
 
-[api/src/services/websocket.ts:15](https://github.com/directus/directus/blob/67c008df3/api/src/services/websocket.ts#L15)
+[api/src/services/websocket.ts:28](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/websocket.ts#L28)
 
 ---
 

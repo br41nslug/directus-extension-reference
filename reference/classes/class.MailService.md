@@ -24,7 +24,7 @@
 
 #### Source
 
-[api/src/services/mail/index.ts:36](https://github.com/directus/directus/blob/67c008df3/api/src/services/mail/index.ts#L36)
+[api/src/services/mail/index.ts:36](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/mail/index.ts#L36)
 
 ## Properties
 
@@ -34,7 +34,7 @@
 
 #### Source
 
-[api/src/services/mail/index.ts:32](https://github.com/directus/directus/blob/67c008df3/api/src/services/mail/index.ts#L32)
+[api/src/services/mail/index.ts:32](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/mail/index.ts#L32)
 
 ---
 
@@ -44,7 +44,7 @@
 
 #### Source
 
-[api/src/services/mail/index.ts:33](https://github.com/directus/directus/blob/67c008df3/api/src/services/mail/index.ts#L33)
+[api/src/services/mail/index.ts:33](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/mail/index.ts#L33)
 
 ---
 
@@ -54,7 +54,7 @@
 
 #### Source
 
-[api/src/services/mail/index.ts:34](https://github.com/directus/directus/blob/67c008df3/api/src/services/mail/index.ts#L34)
+[api/src/services/mail/index.ts:34](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/mail/index.ts#L34)
 
 ---
 
@@ -64,7 +64,7 @@
 
 #### Source
 
-[api/src/services/mail/index.ts:31](https://github.com/directus/directus/blob/67c008df3/api/src/services/mail/index.ts#L31)
+[api/src/services/mail/index.ts:31](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/mail/index.ts#L31)
 
 ## Methods
 
@@ -79,7 +79,7 @@
 
 #### Source
 
-[api/src/services/mail/index.ts:99](https://github.com/directus/directus/blob/67c008df3/api/src/services/mail/index.ts#L99)
+[api/src/services/mail/index.ts:99](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/mail/index.ts#L99)
 
 ---
 
@@ -100,7 +100,7 @@
 
 #### Source
 
-[api/src/services/mail/index.ts:83](https://github.com/directus/directus/blob/67c008df3/api/src/services/mail/index.ts#L83)
+[api/src/services/mail/index.ts:83](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/mail/index.ts#L83)
 
 ---
 
@@ -126,7 +126,7 @@
 
 #### Source
 
-[api/src/services/mail/index.ts:52](https://github.com/directus/directus/blob/67c008df3/api/src/services/mail/index.ts#L52)
+[api/src/services/mail/index.ts:52](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/mail/index.ts#L52)
 
 ---
 

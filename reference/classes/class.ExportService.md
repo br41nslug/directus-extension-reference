@@ -24,7 +24,7 @@
 
 #### Source
 
-[api/src/services/import-export.ts:184](https://github.com/directus/directus/blob/67c008df3/api/src/services/import-export.ts#L184)
+[api/src/services/import-export/index.ts:196](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/import-export/index.ts#L196)
 
 ## Properties
 
@@ -34,7 +34,7 @@
 
 #### Source
 
-[api/src/services/import-export.ts:181](https://github.com/directus/directus/blob/67c008df3/api/src/services/import-export.ts#L181)
+[api/src/services/import-export/index.ts:193](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/import-export/index.ts#L193)
 
 ---
 
@@ -44,7 +44,7 @@
 
 #### Source
 
-[api/src/services/import-export.ts:180](https://github.com/directus/directus/blob/67c008df3/api/src/services/import-export.ts#L180)
+[api/src/services/import-export/index.ts:192](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/import-export/index.ts#L192)
 
 ---
 
@@ -54,7 +54,7 @@
 
 #### Source
 
-[api/src/services/import-export.ts:182](https://github.com/directus/directus/blob/67c008df3/api/src/services/import-export.ts#L182)
+[api/src/services/import-export/index.ts:194](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/import-export/index.ts#L194)
 
 ## Methods
 
@@ -67,13 +67,13 @@ retrieved. Uploads the result as a new file using the regular FilesService uploa
 
 #### Parameters
 
-| Parameter       | Type                  |
-| :-------------- | :-------------------- |
-| `collection`    | `string`              |
-| `query`         | `Query`               |
-| `format`        | `ExportFormat`        |
-| `options`?      | `object`              |
-| `options.file`? | `Partial`\< `File` \> |
+| Parameter       | Type           |
+| :-------------- | :------------- |
+| `collection`    | `string`       |
+| `query`         | `Query`        |
+| `format`        | `ExportFormat` |
+| `options`?      | `object`       |
+| `options.file`? | `any`          |
 
 #### Returns
 
@@ -81,7 +81,7 @@ retrieved. Uploads the result as a new file using the regular FilesService uploa
 
 #### Source
 
-[api/src/services/import-export.ts:195](https://github.com/directus/directus/blob/67c008df3/api/src/services/import-export.ts#L195)
+[api/src/services/import-export/index.ts:207](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/import-export/index.ts#L207)
 
 ---
 
@@ -107,7 +107,7 @@ Transform a given input object / array to the given type
 
 #### Source
 
-[api/src/services/import-export.ts:323](https://github.com/directus/directus/blob/67c008df3/api/src/services/import-export.ts#L323)
+[api/src/services/import-export/index.ts:364](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/import-export/index.ts#L364)
 
 ---
 

@@ -2,9 +2,9 @@
 
 ---
 
-[directus-monorepo](../API.md) > FoldersService
+[directus-monorepo](../API.md) > VersionsService
 
-# Class: FoldersService
+# Class: VersionsService
 
 ## Extends
 
@@ -14,7 +14,7 @@
 
 ### constructor()
 
-> **new FoldersService**(`options`): [`FoldersService`](class.FoldersService.md)
+> **new VersionsService**(`options`): [`VersionsService`](class.VersionsService.md)
 
 #### Parameters
 
@@ -24,7 +24,7 @@
 
 #### Returns
 
-[`FoldersService`](class.FoldersService.md)
+[`VersionsService`](class.VersionsService.md)
 
 #### Overrides
 
@@ -32,7 +32,7 @@
 
 #### Source
 
-[api/src/services/folders.ts:5](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/folders.ts#L5)
+[api/src/services/versions.ts:21](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/versions.ts#L21)
 
 ## Properties
 
@@ -47,6 +47,16 @@
 #### Inherited from
 
 [`ItemsService`](class.ItemsService.md).[`accountability`](class.ItemsService.md#accountability)
+
+---
+
+### authorizationService
+
+> **authorizationService**: [`AuthorizationService`](class.AuthorizationService.md)
+
+#### Source
+
+[api/src/services/versions.ts:19](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/versions.ts#L19)
 
 ---
 
@@ -122,28 +132,28 @@
 
 ### createMany()
 
-> **createMany**(`data`, `opts` = `{}`): `Promise`\< `PrimaryKey`[] \>
+> **createMany**(`data`, `opts`?): `Promise`\< `PrimaryKey`[] \>
 
 Create multiple new items at once. Inserts all provided records sequentially wrapped in a transaction.
 
 #### Parameters
 
-| Parameter | Type                    |
-| :-------- | :---------------------- |
-| `data`    | `Partial`\< `Item` \>[] |
-| `opts`    | `MutationOptions`       |
+| Parameter | Type              |
+| :-------- | :---------------- |
+| `data`    | `Item`[]          |
+| `opts`?   | `MutationOptions` |
 
 #### Returns
 
 `Promise`\< `PrimaryKey`[] \>
 
-#### Inherited from
+#### Overrides
 
 [`ItemsService`](class.ItemsService.md).[`createMany`](class.ItemsService.md#createmany)
 
 #### Source
 
-[api/src/services/items.ts:337](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L337)
+[api/src/services/versions.ts:141](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/versions.ts#L141)
 
 ---
 
@@ -173,28 +183,28 @@ Create multiple new items at once. Inserts all provided records sequentially wra
 
 ### createOne()
 
-> **createOne**(`data`, `opts` = `{}`): `Promise`\< `PrimaryKey` \>
+> **createOne**(`data`, `opts`?): `Promise`\< `PrimaryKey` \>
 
 Create a single new item.
 
 #### Parameters
 
-| Parameter | Type                  |
-| :-------- | :-------------------- |
-| `data`    | `Partial`\< `Item` \> |
-| `opts`    | `MutationOptions`     |
+| Parameter | Type              |
+| :-------- | :---------------- |
+| `data`    | `Item`            |
+| `opts`?   | `MutationOptions` |
 
 #### Returns
 
 `Promise`\< `PrimaryKey` \>
 
-#### Inherited from
+#### Overrides
 
 [`ItemsService`](class.ItemsService.md).[`createOne`](class.ItemsService.md#createone)
 
 #### Source
 
-[api/src/services/items.ts:96](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L96)
+[api/src/services/versions.ts:131](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/versions.ts#L131)
 
 ---
 
@@ -300,6 +310,92 @@ Delete a single item by primary key
 #### Source
 
 [api/src/services/items.ts:76](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L76)
+
+---
+
+### getMainItem()
+
+> **getMainItem**( `collection`, `item`, `query`?): `Promise`\< `Item` \>
+
+#### Parameters
+
+| Parameter    | Type         |
+| :----------- | :----------- |
+| `collection` | `string`     |
+| `item`       | `PrimaryKey` |
+| `query`?     | `any`        |
+
+#### Returns
+
+`Promise`\< `Item` \>
+
+#### Source
+
+[api/src/services/versions.ts:74](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/versions.ts#L74)
+
+---
+
+### getVersionSaves()
+
+> **getVersionSaves**( `key`, `collection`, `item`): `Promise`\< `null` \| `Item`[] \>
+
+#### Parameters
+
+| Parameter    | Type                    |
+| :----------- | :---------------------- |
+| `key`        | `string`                |
+| `collection` | `string`                |
+| `item`       | `undefined` \| `string` |
+
+#### Returns
+
+`Promise`\< `null` \| `Item`[] \>
+
+#### Source
+
+[api/src/services/versions.ts:112](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/versions.ts#L112)
+
+---
+
+### getVersionSavesById()
+
+> **getVersionSavesById**(`id`): `Promise`\< `Item`[] \>
+
+#### Parameters
+
+| Parameter | Type         |
+| :-------- | :----------- |
+| `id`      | `PrimaryKey` |
+
+#### Returns
+
+`Promise`\< `Item`[] \>
+
+#### Source
+
+[api/src/services/versions.ts:99](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/versions.ts#L99)
+
+---
+
+### promote()
+
+> **promote**( `version`, `mainHash`, `fields`?): `Promise`\< `PrimaryKey` \>
+
+#### Parameters
+
+| Parameter  | Type         |
+| :--------- | :----------- |
+| `version`  | `PrimaryKey` |
+| `mainHash` | `string`     |
+| `fields`?  | `string`[]   |
+
+#### Returns
+
+`Promise`\< `PrimaryKey` \>
+
+#### Source
+
+[api/src/services/versions.ts:263](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/versions.ts#L263)
 
 ---
 
@@ -413,6 +509,27 @@ Read/treat collection as singleton
 
 ---
 
+### save()
+
+> **save**(`key`, `data`): `Promise`\< `Item` \>
+
+#### Parameters
+
+| Parameter | Type         |
+| :-------- | :----------- |
+| `key`     | `PrimaryKey` |
+| `data`    | `Item`       |
+
+#### Returns
+
+`Promise`\< `Item` \>
+
+#### Source
+
+[api/src/services/versions.ts:214](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/versions.ts#L214)
+
+---
+
 ### updateBatch()
 
 > **updateBatch**(`data`, `opts` = `{}`): `Promise`\< `PrimaryKey`[] \>
@@ -470,29 +587,29 @@ Update multiple items by query
 
 ### updateMany()
 
-> **updateMany**( `keys`, `data`, `opts` = `{}`): `Promise`\< `PrimaryKey`[] \>
+> **updateMany**( `keys`, `data`, `opts`?): `Promise`\< `PrimaryKey`[] \>
 
 Update many items by primary key, setting all items to the same change
 
 #### Parameters
 
-| Parameter | Type                  |
-| :-------- | :-------------------- |
-| `keys`    | `PrimaryKey`[]        |
-| `data`    | `Partial`\< `Item` \> |
-| `opts`    | `MutationOptions`     |
+| Parameter | Type              |
+| :-------- | :---------------- |
+| `keys`    | `PrimaryKey`[]    |
+| `data`    | `Item`            |
+| `opts`?   | `MutationOptions` |
 
 #### Returns
 
 `Promise`\< `PrimaryKey`[] \>
 
-#### Inherited from
+#### Overrides
 
 [`ItemsService`](class.ItemsService.md).[`updateMany`](class.ItemsService.md#updatemany)
 
 #### Source
 
-[api/src/services/items.ts:581](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L581)
+[api/src/services/versions.ts:169](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/versions.ts#L169)
 
 ---
 
@@ -602,6 +719,48 @@ Upsert/treat collection as singleton
 #### Source
 
 [api/src/services/items.ts:1018](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L1018)
+
+---
+
+### validateCreateData()
+
+> `private` **validateCreateData**(`data`): `Promise`\< `void` \>
+
+#### Parameters
+
+| Parameter | Type   |
+| :-------- | :----- |
+| `data`    | `Item` |
+
+#### Returns
+
+`Promise`\< `void` \>
+
+#### Source
+
+[api/src/services/versions.ts:31](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/versions.ts#L31)
+
+---
+
+### verifyHash()
+
+> **verifyHash**( `collection`, `item`, `hash`): `Promise`\< \{`mainHash`: `string`; `outdated`: `boolean`;} \>
+
+#### Parameters
+
+| Parameter    | Type         |
+| :----------- | :----------- |
+| `collection` | `string`     |
+| `item`       | `PrimaryKey` |
+| `hash`       | `string`     |
+
+#### Returns
+
+`Promise`\< \{`mainHash`: `string`; `outdated`: `boolean`;} \>
+
+#### Source
+
+[api/src/services/versions.ts:87](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/versions.ts#L87)
 
 ---
 

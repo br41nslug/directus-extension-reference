@@ -36,7 +36,7 @@
 
 ## Source
 
-[api/src/services/items.ts:35](https://github.com/directus/directus/blob/67c008df3/api/src/services/items.ts#L35)
+[api/src/services/items.ts:35](https://github.com/directus/directus/blob/3a4abb10c/api/src/services/items.ts#L35)
 
 ---
 
