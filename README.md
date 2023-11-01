@@ -1,6 +1,6 @@
 # Unofficial Directus v10 Extension Reference
 
-These docs are generated using TypeDoc for an easy reference of the Services and Exceptions exposed to backend extensions by Directus.
+These docs are generated using TypeDoc for an easy reference of the Services exposed to backend extensions by Directus.
 
 ## Commmonly used
 - [ItemsService](reference/classes/class.ItemsService.md)
